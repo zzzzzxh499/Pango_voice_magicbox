@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_inst>
+    <header>
+        <vendor>Pango</vendor>
+        <id>06100104</id>
+        <display_name>Distributed FIFO</display_name>
+        <name>Distributed FIFO</name>
+        <version>1.2</version>
+        <instance>logfbe_buff</instance>
+        <family>Logos</family>
+        <device>PGL50H</device>
+        <package>FBG484</package>
+        <speedgrade>-6</speedgrade>
+        <generator version="2022.2-SP1-Lite" build="132640">IP Compiler</generator>
+    </header>
+    <param_list>
+        <param>
+            <name>OUT_REG</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>FIFO_TYPE</name>
+            <value>SYNC_FIFO</value>
+        </param>
+        <param>
+            <name>ALMOST_EMPTY_NUM</name>
+            <value>4</value>
+        </param>
+        <param>
+            <name>RST_TYPE</name>
+            <value>ASYNC</value>
+        </param>
+        <param>
+            <name>ALMOST_FULL_NUM</name>
+            <value>26</value>
+        </param>
+        <param>
+            <name>ASYNC_EN</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>SYNC_EN</name>
+            <value>true</value>
+        </param>
+        <param>
+            <name>DATA_WIDTH</name>
+            <value>16</value>
+        </param>
+        <param>
+            <name>RD_WATER_LEVEL_ENABLE</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>ADDR_WIDTH</name>
+            <value>5</value>
+        </param>
+        <param>
+            <name>WR_WATER_LEVEL_ENABLE</name>
+            <value>false</value>
+        </param>
+    </param_list>
+    <pin_list>
+        <pin>
+            <name>wr_data</name>
+            <text>wr_data</text>
+            <dir>input</dir>
+            <pos>left</pos>
+            <msb>15</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>wr_en</name>
+            <text>wr_en</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>full</name>
+            <text>full</text>
+            <dir>output</dir>
+            <pos>right</pos>
+        </pin>
+        <pin>
+            <name>almost_full</name>
+            <text>almost_full</text>
+            <dir>output</dir>
+            <pos>right</pos>
+        </pin>
+        <pin>
+            <name>rd_data</name>
+            <text>rd_data</text>
+            <dir>output</dir>
+            <pos>right</pos>
+            <msb>15</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>rd_en</name>
+            <text>rd_en</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>empty</name>
+            <text>empty</text>
+            <dir>output</dir>
+            <pos>right</pos>
+        </pin>
+        <pin>
+            <name>almost_empty</name>
+            <text>almost_empty</text>
+            <dir>output</dir>
+            <pos>right</pos>
+        </pin>
+        <pin>
+            <name>clk</name>
+            <text>clk</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>rst</name>
+            <text>rst</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+    </pin_list>
+    <synthesis>
+        <script><![CDATA[set_option -vlog_std v2001]]></script>
+        <script><![CDATA[set_option -disable_io_insertion 1]]></script>
+    </synthesis>
+    <file_list>
+        <output>
+            <file pathname="generate.log" format="log" description="Generate Log"/>
+            <file pathname="logfbe_buff_tb.v" format="verilog" description="Compiled File"/>
+            <file pathname="logfbe_buff_tmpl.v" format="verilog" description="Instantiation Template"/>
+            <file pathname="logfbe_buff_tmpl.vhdl" format="vhdl" description="Instantiation Template"/>
+        </output>
+        <source>
+            <file pathname="rtl/ipm_distributed_fifo_ctr_v1_0.v"/>
+            <file pathname="rtl/ipm_distributed_fifo_v1_2_logfbe_buff.v"/>
+            <file pathname="rtl/ipm_distributed_sdpram_v1_2_logfbe_buff.v"/>
+            <file pathname="logfbe_buff.v"/>
+        </source>
+    </file_list>
+</ip_inst>

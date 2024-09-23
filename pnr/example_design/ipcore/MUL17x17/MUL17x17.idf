@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_inst>
+    <header>
+        <vendor>Pango</vendor>
+        <id>02100303</id>
+        <display_name>Simple Multiplier</display_name>
+        <name>Logos Simple Multiplier</name>
+        <version>1.2</version>
+        <instance>MUL17x17</instance>
+        <family>Logos</family>
+        <device>PGL50H</device>
+        <package>FBG484</package>
+        <speedgrade>-6</speedgrade>
+        <generator version="2022.2-SP1-Lite" build="132640">IP Compiler</generator>
+    </header>
+    <param_list>
+        <param>
+            <name>OUTREG_EN</name>
+            <value>0</value>
+        </param>
+        <param>
+            <name>INREG_EN</name>
+            <value>0</value>
+        </param>
+        <param>
+            <name>PIPE_STATUS</name>
+            <value>3</value>
+        </param>
+        <param>
+            <name>PIPEREG_EN_2</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>ASYNC_RST_BOOL</name>
+            <value>true</value>
+        </param>
+        <param>
+            <name>PIPEREG_EN_1</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>B_SIGNED</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>OPTIMAL_TIMING</name>
+            <value>0</value>
+        </param>
+        <param>
+            <name>BSIZE</name>
+            <value>17</value>
+        </param>
+        <param>
+            <name>ASYNC_RST</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>A_SIGNED</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>PIPEREG_EN_3</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>ASIZE</name>
+            <value>17</value>
+        </param>
+        <param>
+            <name>OPTIMAL_TIMING_BOOL</name>
+            <value>false</value>
+        </param>
+    </param_list>
+    <pin_list>
+        <pin>
+            <name>a</name>
+            <text>a</text>
+            <dir>input</dir>
+            <pos>left</pos>
+            <msb>16</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>b</name>
+            <text>b</text>
+            <dir>input</dir>
+            <pos>left</pos>
+            <msb>16</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>clk</name>
+            <text>clk</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>rst</name>
+            <text>rst</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>ce</name>
+            <text>ce</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>p</name>
+            <text>p</text>
+            <dir>output</dir>
+            <pos>right</pos>
+            <msb>33</msb>
+            <lsb>0</lsb>
+        </pin>
+    </pin_list>
+    <synthesis>
+        <script><![CDATA[set_option -vlog_std v2001]]></script>
+        <script><![CDATA[set_option -disable_io_insertion 1]]></script>
+    </synthesis>
+    <file_list>
+        <output>
+            <file pathname="generate.log" format="log" description="Generate Log"/>
+            <file pathname="MUL17x17_tb.v" format="verilog" description="Compiled File"/>
+            <file pathname="MUL17x17_tmpl.v" format="verilog" description="Instantiation Template"/>
+            <file pathname="MUL17x17_tmpl.vhdl" format="vhdl" description="Instantiation Template"/>
+        </output>
+        <source>
+            <file pathname="rtl/ipml_mult_v1_2_MUL17x17.v"/>
+            <file pathname="MUL17x17.v"/>
+        </source>
+    </file_list>
+</ip_inst>

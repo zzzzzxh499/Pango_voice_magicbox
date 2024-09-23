@@ -1,0 +1,16 @@
+#create_clock -name {sys_clk} [get_ports {sys_clk}] -period {20.000} -waveform {0.000 10.000}
+#create_clock -name {pixclk_in} [get_ports {pixclk_in pixclk_out}] -period {6.734} -waveform {0.000 3.367}
+#create_clock -name {rgmii_clk} [get_ports {rgmii_rxc rgmii_txc}] -period {8.000} -waveform {0.000 4.000}
+#create_clock -name {mclk} [get_ports {es0_mclk es1_mclk}] -period {81.380} -waveform {0.000 40.690}
+#create_clock -name {sclk} [get_ports {es0_dsclk es1_dsclk}] -period {651.042} -waveform {0.000 325.521}
+#set_clock_groups -name async_clk -asynchronous -group [get_clocks {mclk pixclk_in rgmii_clk sclk sys_clk}]
+set_false_path  -from [get_cells {ubus.u_local_bus_slve_cis.reg1[0]}] -to [get_cells {speaker_ctrl_d0[0]}]
+set_false_path  -from [get_cells {ubus.u_local_bus_slve_cis.reg1[2]}] -to [get_cells {speaker_ctrl_d0[2]}]
+set_false_path  -from [get_cells {ubus.u_local_bus_slve_cis.reg1[1]}] -to [get_cells {speaker_ctrl_d0[1]}]
+set_false_path  -from [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.wr_water_level[5]}] -to [get_cells {gvrd_test.gvrd.wait_cnt[30] gvrd_test.gvrd.wait_cnt[31]}]
+set_false_path  -from [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.wr_water_level[5]}] -to [get_cells {gvrd_test.gvrd.state_reg[6]}]
+set_false_path  -from [get_cells {ubus.u_local_bus_slve_cis.reg2[0]}] -to [get_cells {nouput_d0}]
+set_false_path  -from [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.ASYN_CTRL.rptr[6]}] -to [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.ASYN_CTRL.wrptr1[6]}]
+set_false_path  -from [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.ASYN_CTRL.rptr[3]}] -to [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.ASYN_CTRL.wrptr1[3]}]
+set_false_path  -from [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.ASYN_CTRL.rptr[2]}] -to [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.ASYN_CTRL.wrptr1[2]}]
+set_false_path  -from [get_cells {gvrd_test.gvrd.Dcache2Frame.U_ipml_fifo_Dcache2Frame.U_ipml_fifo_ctrl.wr_water_level[7]}] -to [get_cells {gvrd_test.gvrd.wait_cnt[18] gvrd_test.gvrd.wait_cnt[22] gvrd_test.gvrd.wait_cnt[24]}]

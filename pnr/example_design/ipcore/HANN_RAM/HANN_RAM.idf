@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_inst>
+    <header>
+        <vendor>Pango</vendor>
+        <id>02100203</id>
+        <display_name>DRM Based Single Port RAM</display_name>
+        <name>Logos DRM Based Single Port RAM</name>
+        <version>1.5</version>
+        <instance>HANN_RAM</instance>
+        <family>Logos</family>
+        <device>PGL50H</device>
+        <package>FBG484</package>
+        <speedgrade>-6</speedgrade>
+        <generator version="2022.2-SP1-Lite" build="132640">IP Compiler</generator>
+    </header>
+    <param_list>
+        <param>
+            <name>WR_BYTE_EN</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>ADDR_WIDTH</name>
+            <value>9</value>
+        </param>
+        <param>
+            <name>CLK_EN</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>RESET_TYPE</name>
+            <value>ASYNC</value>
+        </param>
+        <param>
+            <name>INIT_FILE</name>
+            <value>NONE</value>
+        </param>
+        <param>
+            <name>OUTPUT_REG</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>CLK_OR_POL_INV</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>DATA_WIDTH</name>
+            <value>16</value>
+        </param>
+        <param>
+            <name>MODE_9K</name>
+            <value>true</value>
+        </param>
+        <param>
+            <name>POWER_OPT</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>WRITE_MODE</name>
+            <value>NORMAL_WRITE</value>
+        </param>
+        <param>
+            <name>ADDR_STROBE_EN</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>INIT_FORMAT</name>
+            <value>BIN</value>
+        </param>
+        <param>
+            <name>BE_WIDTH</name>
+            <value>1</value>
+        </param>
+        <param>
+            <name>BYTE_SIZE</name>
+            <value>8</value>
+        </param>
+        <param>
+            <name>DRM_MODE_SEL</name>
+            <value>AUTO</value>
+        </param>
+        <param>
+            <name>INIT_EN</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>MODE_18K</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>RD_OCE_EN</name>
+            <value>false</value>
+        </param>
+    </param_list>
+    <pin_list>
+        <pin>
+            <name>wr_data</name>
+            <text>wr_data</text>
+            <dir>input</dir>
+            <pos>left</pos>
+            <msb>15</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>addr</name>
+            <text>addr</text>
+            <dir>input</dir>
+            <pos>left</pos>
+            <msb>8</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>wr_en</name>
+            <text>wr_en</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>clk</name>
+            <text>clk</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>rst</name>
+            <text>rst</text>
+            <dir>input</dir>
+            <pos>right</pos>
+        </pin>
+        <pin>
+            <name>rd_data</name>
+            <text>rd_data</text>
+            <dir>output</dir>
+            <pos>right</pos>
+            <msb>15</msb>
+            <lsb>0</lsb>
+        </pin>
+    </pin_list>
+    <synthesis>
+        <script><![CDATA[set_option -vlog_std v2001]]></script>
+        <script><![CDATA[set_option -disable_io_insertion 1]]></script>
+    </synthesis>
+    <file_list>
+        <output>
+            <file pathname="generate.log" format="log" description="Generate Log"/>
+            <file pathname="HANN_RAM_tb.v" format="verilog" description="Compiled File"/>
+            <file pathname="HANN_RAM_tmpl.v" format="verilog" description="Instantiation Template"/>
+            <file pathname="HANN_RAM_tmpl.vhdl" format="vhdl" description="Instantiation Template"/>
+        </output>
+        <source>
+            <file pathname="rtl/ipml_spram_v1_5_HANN_RAM.v"/>
+            <file pathname="HANN_RAM.v"/>
+        </source>
+    </file_list>
+</ip_inst>

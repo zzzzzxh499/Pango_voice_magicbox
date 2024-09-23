@@ -1,0 +1,1656 @@
+[Info] [2024-7-10 20:05:41] /***************************Start Configuration***************************/
+[Info] [2024-7-10 20:05:41] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-10 20:05:41] Version: 132640
+[Info] [2024-7-10 20:05:42] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-10 20:05:42] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-10 20:05:44] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-10 20:05:44] Client Local host name:zxh_dtp
+[Debug] [2024-7-10 20:05:44] Client Local Address:192.168.1.125
+[Debug] [2024-7-10 20:05:44] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-10 20:05:45] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-10 20:05:45] Finish.
+[Info] [2024-7-10 20:05:45] Connect server succeeded
+[Debug] [2024-7-10 20:05:45] Send RPC:1
+[Debug] [2024-7-10 20:05:45] Send cmd [check version information:40004] OK
+[Debug] [2024-7-10 20:05:45] Send RPC:2
+[Debug] [2024-7-10 20:05:45] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-10 20:05:45] Begin to send initialize chain cmd...
+[Debug] [2024-7-10 20:05:45] Send RPC:3
+[Debug] [2024-7-10 20:05:45] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-10 20:05:45] End to send initialize chain cmd.
+[Debug] [2024-7-10 20:05:45] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2024-7-10 20:05:46] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2024-7-10 20:05:47] begin the exec of open cable cmd...
+[Debug] [2024-7-10 20:05:47] Begin to deal with chain from server...
+[Debug] [2024-7-10 20:05:47] Begin to set user chain...
+[Debug] [2024-7-10 20:05:47] End to set user chain.
+[Debug] [2024-7-10 20:05:47] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:05:47] End to update graphic item and tree item ...
+[Info] [2024-7-10 20:05:49] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-10 20:05:49] begin to get device info from CFG file...
+[Debug] [2024-7-10 20:05:49] end to get device info from CFG file...
+[Debug] [2024-7-10 20:05:49] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:05:49] End to update graphic item and tree item ...
+[Debug] [2024-7-10 20:05:49] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:05:49] End to update graphic item and tree item ...
+[Debug] [2024-7-10 20:05:49] End to deal wiht chain from server.
+[Debug] [2024-7-10 20:05:49] end the exec of open cable cmd.
+[Debug] [2024-7-10 20:05:49] COMMAND[Open config cable] execute successfully, takes 4.0 secs.
+[Info] [2024-7-10 20:16:45] /***************************End Configration***************************/
+[Info] [2024-7-10 20:20:46] /***************************Start Configuration***************************/
+[Info] [2024-7-10 20:20:46] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-10 20:20:46] Version: 132640
+[Info] [2024-7-10 20:20:47] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-10 20:20:47] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-10 20:20:50] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-10 20:20:50] Client Local host name:zxh_dtp
+[Debug] [2024-7-10 20:20:50] Client Local Address:192.168.1.125
+[Debug] [2024-7-10 20:20:50] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-10 20:20:51] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-10 20:20:51] Finish.
+[Info] [2024-7-10 20:20:51] Connect server succeeded
+[Debug] [2024-7-10 20:20:51] Send RPC:1
+[Debug] [2024-7-10 20:20:51] Send cmd [check version information:40004] OK
+[Debug] [2024-7-10 20:20:51] Send RPC:2
+[Debug] [2024-7-10 20:20:51] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-10 20:20:51] Begin to send initialize chain cmd...
+[Debug] [2024-7-10 20:20:51] Send RPC:3
+[Debug] [2024-7-10 20:20:51] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-10 20:20:51] End to send initialize chain cmd.
+[Debug] [2024-7-10 20:20:51] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2024-7-10 20:20:52] COMMAND[get_cable_paras] execute successfully, takes 0.7 secs.
+[Debug] [2024-7-10 20:20:52] begin the exec of open cable cmd...
+[Debug] [2024-7-10 20:20:52] Begin to deal with chain from server...
+[Debug] [2024-7-10 20:20:52] Begin to set user chain...
+[Debug] [2024-7-10 20:20:52] End to set user chain.
+[Debug] [2024-7-10 20:20:52] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:20:52] End to update graphic item and tree item ...
+[Info] [2024-7-10 20:20:54] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-10 20:20:54] begin to get device info from CFG file...
+[Debug] [2024-7-10 20:20:54] end to get device info from CFG file...
+[Debug] [2024-7-10 20:20:54] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:20:54] End to update graphic item and tree item ...
+[Debug] [2024-7-10 20:20:54] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:20:54] End to update graphic item and tree item ...
+[Debug] [2024-7-10 20:20:54] End to deal wiht chain from server.
+[Debug] [2024-7-10 20:20:54] end the exec of open cable cmd.
+[Debug] [2024-7-10 20:20:54] COMMAND[Open config cable] execute successfully, takes 3.0 secs.
+[Debug] [2024-7-10 20:20:56] Begin to send programming cmd...
+[Debug] [2024-7-10 20:20:56] Send RPC:4
+[Debug] [2024-7-10 20:20:56] Begin to send program data.
+[Debug] [2024-7-10 20:20:56] End to send program data.
+[Debug] [2024-7-10 20:20:56] Send cmd [Program:20002] OK
+[Debug] [2024-7-10 20:20:56] The value of Progress is 6
+[Debug] [2024-7-10 20:20:56] The value of Progress is 10
+[Debug] [2024-7-10 20:20:56] The value of Progress is 15
+[Debug] [2024-7-10 20:20:56] The value of Progress is 20
+[Debug] [2024-7-10 20:20:56] The value of Progress is 25
+[Debug] [2024-7-10 20:20:57] The value of Progress is 30
+[Debug] [2024-7-10 20:20:57] The value of Progress is 35
+[Debug] [2024-7-10 20:20:57] The value of Progress is 40
+[Debug] [2024-7-10 20:20:57] The value of Progress is 45
+[Debug] [2024-7-10 20:20:57] The value of Progress is 50
+[Debug] [2024-7-10 20:20:57] The value of Progress is 55
+[Debug] [2024-7-10 20:20:57] The value of Progress is 60
+[Debug] [2024-7-10 20:20:57] The value of Progress is 65
+[Debug] [2024-7-10 20:20:57] The value of Progress is 70
+[Debug] [2024-7-10 20:20:57] The value of Progress is 75
+[Debug] [2024-7-10 20:20:57] The value of Progress is 80
+[Debug] [2024-7-10 20:20:57] The value of Progress is 85
+[Debug] [2024-7-10 20:20:58] The value of Progress is 90
+[Debug] [2024-7-10 20:20:58] The value of Progress is 95
+[Debug] [2024-7-10 20:20:58] The value of Progress is 100
+[Debug] [2024-7-10 20:20:58] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-10 20:20:58] End to send programming cmd.
+[Debug] [2024-7-10 20:41:10] Begin to send initialize chain cmd...
+[Debug] [2024-7-10 20:41:10] Send RPC:5
+[Debug] [2024-7-10 20:41:10] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-10 20:41:10] End to send initialize chain cmd.
+[Debug] [2024-7-10 20:41:11] begin the exec of open cable cmd...
+[Debug] [2024-7-10 20:41:11] Begin to deal with chain from server...
+[Debug] [2024-7-10 20:41:11] Begin to set user chain...
+[Debug] [2024-7-10 20:41:11] End to set user chain.
+[Debug] [2024-7-10 20:41:11] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:41:11] End to update graphic item and tree item ...
+[Info] [2024-7-10 20:41:12] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-10 20:41:12] begin to get device info from CFG file...
+[Debug] [2024-7-10 20:41:12] end to get device info from CFG file...
+[Debug] [2024-7-10 20:41:12] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:41:12] End to update graphic item and tree item ...
+[Debug] [2024-7-10 20:41:12] Begin to update graphic item and tree item ...
+[Debug] [2024-7-10 20:41:12] End to update graphic item and tree item ...
+[Debug] [2024-7-10 20:41:12] End to deal wiht chain from server.
+[Debug] [2024-7-10 20:41:12] end the exec of open cable cmd.
+[Debug] [2024-7-10 20:41:12] COMMAND[Open config cable] execute successfully, takes 1.6 secs.
+[Debug] [2024-7-10 20:41:15] Begin to send programming cmd...
+[Debug] [2024-7-10 20:41:15] Send RPC:6
+[Debug] [2024-7-10 20:41:15] Begin to send program data.
+[Debug] [2024-7-10 20:41:15] End to send program data.
+[Debug] [2024-7-10 20:41:15] Send cmd [Program:20002] OK
+[Debug] [2024-7-10 20:41:15] The value of Progress is 6
+[Debug] [2024-7-10 20:41:15] The value of Progress is 10
+[Debug] [2024-7-10 20:41:15] The value of Progress is 15
+[Debug] [2024-7-10 20:41:15] The value of Progress is 20
+[Debug] [2024-7-10 20:41:15] The value of Progress is 25
+[Debug] [2024-7-10 20:41:16] The value of Progress is 30
+[Debug] [2024-7-10 20:41:16] The value of Progress is 35
+[Debug] [2024-7-10 20:41:16] The value of Progress is 40
+[Debug] [2024-7-10 20:41:16] The value of Progress is 45
+[Debug] [2024-7-10 20:41:16] The value of Progress is 50
+[Debug] [2024-7-10 20:41:16] The value of Progress is 55
+[Debug] [2024-7-10 20:41:16] The value of Progress is 60
+[Debug] [2024-7-10 20:41:16] The value of Progress is 65
+[Debug] [2024-7-10 20:41:16] The value of Progress is 70
+[Debug] [2024-7-10 20:41:16] The value of Progress is 75
+[Debug] [2024-7-10 20:41:16] The value of Progress is 80
+[Debug] [2024-7-10 20:41:16] The value of Progress is 85
+[Debug] [2024-7-10 20:41:17] The value of Progress is 90
+[Debug] [2024-7-10 20:41:17] The value of Progress is 95
+[Debug] [2024-7-10 20:41:17] The value of Progress is 100
+[Debug] [2024-7-10 20:41:17] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-10 20:41:17] End to send programming cmd.
+[Info] [2024-7-10 20:59:05] /***************************End Configration***************************/
+[Info] [2024-7-11 15:54:46] /***************************Start Configuration***************************/
+[Info] [2024-7-11 15:54:46] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-11 15:54:46] Version: 132640
+[Info] [2024-7-11 15:54:47] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 15:54:47] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 15:54:50] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-11 15:54:50] Client Local host name:zxh_dtp
+[Debug] [2024-7-11 15:54:50] Client Local Address:192.168.100.152
+[Debug] [2024-7-11 15:54:50] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-11 15:54:51] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-11 15:54:51] Finish.
+[Info] [2024-7-11 15:54:51] Connect server succeeded
+[Debug] [2024-7-11 15:54:51] Send RPC:1
+[Debug] [2024-7-11 15:54:51] Send cmd [check version information:40004] OK
+[Debug] [2024-7-11 15:54:52] Send RPC:2
+[Debug] [2024-7-11 15:54:52] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-11 15:54:52] Begin to send initialize chain cmd...
+[Debug] [2024-7-11 15:54:52] Send RPC:3
+[Debug] [2024-7-11 15:54:52] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-11 15:54:52] End to send initialize chain cmd.
+[Debug] [2024-7-11 15:54:52] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2024-7-11 15:54:53] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2024-7-11 15:54:53] begin the exec of open cable cmd...
+[Debug] [2024-7-11 15:54:53] Begin to deal with chain from server...
+[Debug] [2024-7-11 15:54:53] Begin to set user chain...
+[Debug] [2024-7-11 15:54:53] End to set user chain.
+[Debug] [2024-7-11 15:54:53] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 15:54:53] End to update graphic item and tree item ...
+[Info] [2024-7-11 15:54:55] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-11 15:54:55] begin to get device info from CFG file...
+[Debug] [2024-7-11 15:54:55] end to get device info from CFG file...
+[Debug] [2024-7-11 15:54:55] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 15:54:55] End to update graphic item and tree item ...
+[Debug] [2024-7-11 15:54:55] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 15:54:55] End to update graphic item and tree item ...
+[Debug] [2024-7-11 15:54:55] End to deal wiht chain from server.
+[Debug] [2024-7-11 15:54:55] end the exec of open cable cmd.
+[Debug] [2024-7-11 15:54:55] COMMAND[Open config cable] execute successfully, takes 3.2 secs.
+[Debug] [2024-7-11 15:54:56] Begin to send programming cmd...
+[Debug] [2024-7-11 15:54:56] Send RPC:4
+[Debug] [2024-7-11 15:54:56] Begin to send program data.
+[Debug] [2024-7-11 15:54:56] End to send program data.
+[Debug] [2024-7-11 15:54:56] Send cmd [Program:20002] OK
+[Debug] [2024-7-11 15:54:57] The value of Progress is 6
+[Debug] [2024-7-11 15:54:57] The value of Progress is 10
+[Debug] [2024-7-11 15:54:57] The value of Progress is 15
+[Debug] [2024-7-11 15:54:57] The value of Progress is 20
+[Debug] [2024-7-11 15:54:57] The value of Progress is 25
+[Debug] [2024-7-11 15:54:57] The value of Progress is 30
+[Debug] [2024-7-11 15:54:57] The value of Progress is 35
+[Debug] [2024-7-11 15:54:57] The value of Progress is 40
+[Debug] [2024-7-11 15:54:57] The value of Progress is 45
+[Debug] [2024-7-11 15:54:57] The value of Progress is 50
+[Debug] [2024-7-11 15:54:57] The value of Progress is 55
+[Debug] [2024-7-11 15:54:57] The value of Progress is 60
+[Debug] [2024-7-11 15:54:58] The value of Progress is 65
+[Debug] [2024-7-11 15:54:58] The value of Progress is 70
+[Debug] [2024-7-11 15:54:58] The value of Progress is 75
+[Debug] [2024-7-11 15:54:58] The value of Progress is 80
+[Debug] [2024-7-11 15:54:58] The value of Progress is 85
+[Debug] [2024-7-11 15:54:58] The value of Progress is 90
+[Debug] [2024-7-11 15:54:58] The value of Progress is 95
+[Debug] [2024-7-11 15:54:58] The value of Progress is 100
+[Debug] [2024-7-11 15:54:58] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-11 15:54:58] End to send programming cmd.
+[Debug] [2024-7-11 16:04:31] Begin to send initialize chain cmd...
+[Debug] [2024-7-11 16:04:31] Send RPC:5
+[Debug] [2024-7-11 16:04:31] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-11 16:04:31] End to send initialize chain cmd.
+[Debug] [2024-7-11 16:04:31] begin the exec of open cable cmd...
+[Debug] [2024-7-11 16:04:31] Begin to deal with chain from server...
+[Debug] [2024-7-11 16:04:31] Begin to set user chain...
+[Debug] [2024-7-11 16:04:31] End to set user chain.
+[Debug] [2024-7-11 16:04:31] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:04:31] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:06:19] /***************************Start Configuration***************************/
+[Info] [2024-7-11 16:06:19] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-11 16:06:19] Version: 132640
+[Info] [2024-7-11 16:06:20] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:06:20] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:06:21] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-11 16:06:21] Client Local host name:zxh_dtp
+[Debug] [2024-7-11 16:06:21] Client Local Address:192.168.100.152
+[Debug] [2024-7-11 16:06:21] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-11 16:06:21] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-11 16:06:21] Finish.
+[Info] [2024-7-11 16:06:21] Connect server succeeded
+[Debug] [2024-7-11 16:06:21] Send RPC:1
+[Debug] [2024-7-11 16:06:21] Send cmd [check version information:40004] OK
+[Debug] [2024-7-11 16:06:21] Send RPC:2
+[Debug] [2024-7-11 16:06:21] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-11 16:06:21] Begin to send initialize chain cmd...
+[Debug] [2024-7-11 16:06:21] Send RPC:3
+[Debug] [2024-7-11 16:06:21] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-11 16:06:21] End to send initialize chain cmd.
+[Debug] [2024-7-11 16:06:21] COMMAND[check version information] execute successfully, takes 0.0 secs.
+[Debug] [2024-7-11 16:06:22] COMMAND[get_cable_paras] execute successfully, takes 0.7 secs.
+[Debug] [2024-7-11 16:06:23] begin the exec of open cable cmd...
+[Debug] [2024-7-11 16:06:23] Begin to deal with chain from server...
+[Debug] [2024-7-11 16:06:23] Begin to set user chain...
+[Debug] [2024-7-11 16:06:23] End to set user chain.
+[Debug] [2024-7-11 16:06:23] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:06:23] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:06:24] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-11 16:06:24] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:06:24] end to get device info from CFG file...
+[Debug] [2024-7-11 16:06:24] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:06:24] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:06:24] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:06:24] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:06:24] End to deal wiht chain from server.
+[Debug] [2024-7-11 16:06:24] end the exec of open cable cmd.
+[Debug] [2024-7-11 16:06:24] COMMAND[Open config cable] execute successfully, takes 2.9 secs.
+[Debug] [2024-7-11 16:06:26] Begin to send programming cmd...
+[Debug] [2024-7-11 16:06:26] Send RPC:4
+[Debug] [2024-7-11 16:06:26] Begin to send program data.
+[Debug] [2024-7-11 16:06:26] End to send program data.
+[Debug] [2024-7-11 16:06:26] Send cmd [Program:20002] OK
+[Debug] [2024-7-11 16:06:26] The value of Progress is 6
+[Debug] [2024-7-11 16:06:27] The value of Progress is 10
+[Debug] [2024-7-11 16:06:27] The value of Progress is 15
+[Debug] [2024-7-11 16:06:27] The value of Progress is 20
+[Debug] [2024-7-11 16:06:27] The value of Progress is 25
+[Debug] [2024-7-11 16:06:27] The value of Progress is 30
+[Debug] [2024-7-11 16:06:27] The value of Progress is 35
+[Debug] [2024-7-11 16:06:27] The value of Progress is 40
+[Debug] [2024-7-11 16:06:27] The value of Progress is 45
+[Debug] [2024-7-11 16:06:27] The value of Progress is 50
+[Debug] [2024-7-11 16:06:27] The value of Progress is 55
+[Debug] [2024-7-11 16:06:27] The value of Progress is 60
+[Debug] [2024-7-11 16:06:28] The value of Progress is 65
+[Debug] [2024-7-11 16:06:28] The value of Progress is 70
+[Debug] [2024-7-11 16:06:28] The value of Progress is 75
+[Debug] [2024-7-11 16:06:28] The value of Progress is 80
+[Debug] [2024-7-11 16:06:28] The value of Progress is 85
+[Debug] [2024-7-11 16:06:28] The value of Progress is 90
+[Debug] [2024-7-11 16:06:28] The value of Progress is 95
+[Debug] [2024-7-11 16:06:28] The value of Progress is 100
+[Debug] [2024-7-11 16:06:28] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-11 16:06:28] End to send programming cmd.
+[Info] [2024-7-11 16:07:18] /***************************End Configration***************************/
+[Info] [2024-7-11 16:07:21] /***************************Start Configuration***************************/
+[Info] [2024-7-11 16:07:21] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-11 16:07:21] Version: 132640
+[Info] [2024-7-11 16:07:22] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:07:22] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:08:15] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-11 16:08:15] Client Local host name:zxh_dtp
+[Debug] [2024-7-11 16:08:15] Client Local Address:192.168.100.152
+[Debug] [2024-7-11 16:08:15] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-11 16:08:16] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-11 16:08:16] Finish.
+[Info] [2024-7-11 16:08:16] Connect server succeeded
+[Debug] [2024-7-11 16:08:16] Send RPC:1
+[Debug] [2024-7-11 16:08:16] Send cmd [check version information:40004] OK
+[Debug] [2024-7-11 16:08:16] Send RPC:2
+[Debug] [2024-7-11 16:08:16] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-11 16:08:16] Begin to send initialize chain cmd...
+[Debug] [2024-7-11 16:08:16] Send RPC:3
+[Debug] [2024-7-11 16:08:16] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-11 16:08:16] End to send initialize chain cmd.
+[Debug] [2024-7-11 16:08:16] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2024-7-11 16:08:17] COMMAND[get_cable_paras] execute successfully, takes 0.7 secs.
+[Debug] [2024-7-11 16:08:17] begin the exec of open cable cmd...
+[Debug] [2024-7-11 16:08:17] Begin to deal with chain from server...
+[Debug] [2024-7-11 16:08:17] Begin to set user chain...
+[Debug] [2024-7-11 16:08:17] End to set user chain.
+[Debug] [2024-7-11 16:08:17] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:08:17] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:08:19] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-11 16:08:19] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:08:19] end to get device info from CFG file...
+[Debug] [2024-7-11 16:08:19] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:08:19] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:08:19] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:08:19] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:08:19] End to deal wiht chain from server.
+[Debug] [2024-7-11 16:08:19] end the exec of open cable cmd.
+[Debug] [2024-7-11 16:08:19] COMMAND[Open config cable] execute successfully, takes 3.1 secs.
+[Debug] [2024-7-11 16:08:25] Begin to Converte file.
+[Debug] [2024-7-11 16:09:12] begin to parse sfc file.
+[Debug] [2024-7-11 16:09:12] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:09:12] end to get device info from CFG file...
+[Debug] [2024-7-11 16:09:12] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:09:12] end to get device info from CFG file...
+[Debug] [2024-7-11 16:09:12] end to parse sfc file.
+[Debug] [2024-7-11 16:09:13] End to Converte file.
+[Debug] [2024-7-11 16:09:20] Begin to send scan outer flash cmd...
+[Debug] [2024-7-11 16:09:20] Send RPC:4
+[Debug] [2024-7-11 16:09:20] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-7-11 16:09:20] End to send scan outer flash cmd.
+[Debug] [2024-7-11 16:09:21] begin to exec scan jtag flash cmd...
+[Debug] [2024-7-11 16:09:21] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-7-11 16:09:21] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:09:21] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:09:22] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sfc
+[Debug] [2024-7-11 16:09:22] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-11 16:09:22] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-11 16:09:22] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:09:22] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:09:22] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-7-11 16:09:22] end to exec scan jtag flash cmd...
+[Debug] [2024-7-11 16:09:22] COMMAND[Scan Outer SPI Flash] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-11 16:09:26] begin to send promgram jtag flash cmd.
+[Debug] [2024-7-11 16:09:26] begin to send jtag flash erase cmd
+[Debug] [2024-7-11 16:09:26] Send RPC:5
+[Debug] [2024-7-11 16:09:26] Begin to send embed flash erase data.
+[Debug] [2024-7-11 16:09:26] Begin to send flash erase data.
+[Debug] [2024-7-11 16:09:26] End to send flash erase data.
+[Debug] [2024-7-11 16:09:26] End to send embed flash erase data.
+[Debug] [2024-7-11 16:09:26] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-7-11 16:09:26] The value of Progress is 1
+[Debug] [2024-7-11 16:09:28] The value of Progress is 6
+[Debug] [2024-7-11 16:09:28] The value of Progress is 12
+[Debug] [2024-7-11 16:09:29] The value of Progress is 15
+[Debug] [2024-7-11 16:09:30] The value of Progress is 21
+[Debug] [2024-7-11 16:09:30] The value of Progress is 27
+[Debug] [2024-7-11 16:09:31] The value of Progress is 30
+[Debug] [2024-7-11 16:09:32] The value of Progress is 36
+[Debug] [2024-7-11 16:09:32] The value of Progress is 42
+[Debug] [2024-7-11 16:09:33] The value of Progress is 45
+[Debug] [2024-7-11 16:09:34] The value of Progress is 51
+[Debug] [2024-7-11 16:09:35] The value of Progress is 57
+[Debug] [2024-7-11 16:09:35] The value of Progress is 60
+[Debug] [2024-7-11 16:09:36] The value of Progress is 66
+[Debug] [2024-7-11 16:09:37] The value of Progress is 72
+[Debug] [2024-7-11 16:09:37] The value of Progress is 75
+[Debug] [2024-7-11 16:09:38] The value of Progress is 81
+[Debug] [2024-7-11 16:09:38] The value of Progress is 87
+[Debug] [2024-7-11 16:09:39] The value of Progress is 90
+[Debug] [2024-7-11 16:09:40] The value of Progress is 96
+[Debug] [2024-7-11 16:09:40] The value of Progress is 100
+[Debug] [2024-7-11 16:09:40] COMMAND[Erase Outer Flash] execute finish, takes 13.6 secs.
+[Debug] [2024-7-11 16:09:40] end to send jtag flash erase cmd.
+[Debug] [2024-7-11 16:09:40] Send RPC:6
+[Debug] [2024-7-11 16:09:40] Begin to send jtag flash program data.
+[Debug] [2024-7-11 16:09:40] Begin to send flash program data.
+[Debug] [2024-7-11 16:09:40] End to send flash program data.
+[Debug] [2024-7-11 16:09:40] End to send embed flash program data.
+[Debug] [2024-7-11 16:09:40] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-7-11 16:09:42] The value of Progress is 1
+[Debug] [2024-7-11 16:09:44] The value of Progress is 6
+[Debug] [2024-7-11 16:09:45] The value of Progress is 10
+[Debug] [2024-7-11 16:09:47] The value of Progress is 15
+[Debug] [2024-7-11 16:09:49] The value of Progress is 20
+[Debug] [2024-7-11 16:09:50] The value of Progress is 25
+[Debug] [2024-7-11 16:09:52] The value of Progress is 30
+[Debug] [2024-7-11 16:09:53] The value of Progress is 35
+[Debug] [2024-7-11 16:09:55] The value of Progress is 40
+[Debug] [2024-7-11 16:09:57] The value of Progress is 45
+[Debug] [2024-7-11 16:09:58] The value of Progress is 50
+[Debug] [2024-7-11 16:10:00] The value of Progress is 55
+[Debug] [2024-7-11 16:10:02] The value of Progress is 60
+[Debug] [2024-7-11 16:10:03] The value of Progress is 65
+[Debug] [2024-7-11 16:10:05] The value of Progress is 70
+[Debug] [2024-7-11 16:10:07] The value of Progress is 75
+[Debug] [2024-7-11 16:10:08] The value of Progress is 80
+[Debug] [2024-7-11 16:10:10] The value of Progress is 85
+[Debug] [2024-7-11 16:10:12] The value of Progress is 90
+[Debug] [2024-7-11 16:10:13] The value of Progress is 95
+[Debug] [2024-7-11 16:10:15] The value of Progress is 100
+[Debug] [2024-7-11 16:10:15] COMMAND[Program Outer Flash] execute finish, takes 35.2 secs.
+[Debug] [2024-7-11 16:10:15] begin to send jtag flash verify cmd
+[Debug] [2024-7-11 16:10:15] Send RPC:7
+[Debug] [2024-7-11 16:10:15] Begin to send embed flash verify data.
+[Debug] [2024-7-11 16:10:15] Begin to send flash verify data.
+[Debug] [2024-7-11 16:10:15] End to send flash verify data.
+[Debug] [2024-7-11 16:10:15] End to send embed flash verify data.
+[Debug] [2024-7-11 16:10:15] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-7-11 16:10:15] The value of Progress is 1
+[Debug] [2024-7-11 16:10:15] The value of Progress is 6
+[Debug] [2024-7-11 16:10:15] The value of Progress is 10
+[Debug] [2024-7-11 16:10:16] The value of Progress is 15
+[Debug] [2024-7-11 16:10:16] The value of Progress is 20
+[Debug] [2024-7-11 16:10:16] The value of Progress is 25
+[Debug] [2024-7-11 16:10:16] The value of Progress is 30
+[Debug] [2024-7-11 16:10:16] The value of Progress is 35
+[Debug] [2024-7-11 16:10:16] The value of Progress is 40
+[Debug] [2024-7-11 16:10:16] The value of Progress is 45
+[Debug] [2024-7-11 16:10:16] The value of Progress is 50
+[Debug] [2024-7-11 16:10:16] The value of Progress is 55
+[Debug] [2024-7-11 16:10:16] The value of Progress is 60
+[Debug] [2024-7-11 16:10:17] The value of Progress is 65
+[Debug] [2024-7-11 16:10:17] The value of Progress is 70
+[Debug] [2024-7-11 16:10:17] The value of Progress is 75
+[Debug] [2024-7-11 16:10:17] The value of Progress is 80
+[Debug] [2024-7-11 16:10:17] The value of Progress is 85
+[Debug] [2024-7-11 16:10:17] The value of Progress is 90
+[Debug] [2024-7-11 16:10:17] The value of Progress is 95
+[Debug] [2024-7-11 16:10:17] The value of Progress is 100
+[Debug] [2024-7-11 16:10:18] COMMAND[Verify Outer Flash] execute successfully, takes 2.5 secs.
+[Debug] [2024-7-11 16:10:18] end to send jtag flash verify cmd
+[Debug] [2024-7-11 16:10:18] end to send jtag flash program cmd.
+[Info] [2024-7-11 16:11:08] /***************************End Configration***************************/
+[Info] [2024-7-11 16:21:47] /***************************Start Configuration***************************/
+[Info] [2024-7-11 16:21:47] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-11 16:21:47] Version: 132640
+[Info] [2024-7-11 16:21:48] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:21:48] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:21:54] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-11 16:21:54] Client Local host name:zxh_dtp
+[Debug] [2024-7-11 16:21:54] Client Local Address:192.168.100.152
+[Debug] [2024-7-11 16:21:54] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-11 16:21:55] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-11 16:21:55] Finish.
+[Info] [2024-7-11 16:21:55] Connect server succeeded
+[Debug] [2024-7-11 16:21:55] Send RPC:1
+[Debug] [2024-7-11 16:21:55] Send cmd [check version information:40004] OK
+[Debug] [2024-7-11 16:21:56] Send RPC:2
+[Debug] [2024-7-11 16:21:56] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-11 16:21:56] Begin to send initialize chain cmd...
+[Debug] [2024-7-11 16:21:56] Send RPC:3
+[Debug] [2024-7-11 16:21:56] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-11 16:21:56] End to send initialize chain cmd.
+[Debug] [2024-7-11 16:21:56] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2024-7-11 16:21:56] COMMAND[get_cable_paras] execute successfully, takes 0.9 secs.
+[Debug] [2024-7-11 16:21:57] begin the exec of open cable cmd...
+[Debug] [2024-7-11 16:21:57] Begin to deal with chain from server...
+[Debug] [2024-7-11 16:21:57] Begin to set user chain...
+[Debug] [2024-7-11 16:21:57] End to set user chain.
+[Debug] [2024-7-11 16:21:57] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:21:57] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:21:58] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-11 16:21:58] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:21:58] end to get device info from CFG file...
+[Debug] [2024-7-11 16:21:58] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:21:58] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:21:58] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:21:58] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:21:58] End to deal wiht chain from server.
+[Debug] [2024-7-11 16:21:58] end the exec of open cable cmd.
+[Debug] [2024-7-11 16:21:58] COMMAND[Open config cable] execute successfully, takes 2.5 secs.
+[Debug] [2024-7-11 16:21:59] Begin to send programming cmd...
+[Debug] [2024-7-11 16:21:59] Send RPC:4
+[Debug] [2024-7-11 16:21:59] Begin to send program data.
+[Debug] [2024-7-11 16:21:59] End to send program data.
+[Debug] [2024-7-11 16:21:59] Send cmd [Program:20002] OK
+[Debug] [2024-7-11 16:22:00] The value of Progress is 6
+[Debug] [2024-7-11 16:22:00] The value of Progress is 10
+[Debug] [2024-7-11 16:22:00] The value of Progress is 15
+[Debug] [2024-7-11 16:22:00] The value of Progress is 20
+[Debug] [2024-7-11 16:22:00] The value of Progress is 25
+[Debug] [2024-7-11 16:22:00] The value of Progress is 30
+[Debug] [2024-7-11 16:22:00] The value of Progress is 35
+[Debug] [2024-7-11 16:22:00] The value of Progress is 40
+[Debug] [2024-7-11 16:22:00] The value of Progress is 45
+[Debug] [2024-7-11 16:22:00] The value of Progress is 50
+[Debug] [2024-7-11 16:22:00] The value of Progress is 55
+[Debug] [2024-7-11 16:22:00] The value of Progress is 60
+[Debug] [2024-7-11 16:22:01] The value of Progress is 65
+[Debug] [2024-7-11 16:22:01] The value of Progress is 70
+[Debug] [2024-7-11 16:22:01] The value of Progress is 75
+[Debug] [2024-7-11 16:22:01] The value of Progress is 80
+[Debug] [2024-7-11 16:22:01] The value of Progress is 85
+[Debug] [2024-7-11 16:22:01] The value of Progress is 90
+[Debug] [2024-7-11 16:22:01] The value of Progress is 95
+[Debug] [2024-7-11 16:22:01] The value of Progress is 100
+[Debug] [2024-7-11 16:22:01] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-11 16:22:01] End to send programming cmd.
+[Debug] [2024-7-11 16:26:07] Begin to Converte file.
+[Debug] [2024-7-11 16:26:41] begin to parse sfc file.
+[Debug] [2024-7-11 16:26:41] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:26:41] end to get device info from CFG file...
+[Debug] [2024-7-11 16:26:41] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:26:41] end to get device info from CFG file...
+[Debug] [2024-7-11 16:26:41] end to parse sfc file.
+[Debug] [2024-7-11 16:26:42] End to Converte file.
+[Debug] [2024-7-11 16:26:49] Begin to send scan outer flash cmd...
+[Debug] [2024-7-11 16:26:49] Send RPC:5
+[Debug] [2024-7-11 16:26:49] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-7-11 16:26:49] End to send scan outer flash cmd.
+[Debug] [2024-7-11 16:26:49] begin to exec scan jtag flash cmd...
+[Debug] [2024-7-11 16:26:49] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-7-11 16:26:49] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:26:49] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:26:50] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sfc
+[Debug] [2024-7-11 16:26:50] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-11 16:26:50] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-11 16:26:50] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:26:50] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:26:50] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-7-11 16:26:50] end to exec scan jtag flash cmd...
+[Debug] [2024-7-11 16:26:50] COMMAND[Scan Outer SPI Flash] execute successfully, takes 1.6 secs.
+[Debug] [2024-7-11 16:26:53] begin to send promgram jtag flash cmd.
+[Debug] [2024-7-11 16:26:53] begin to send jtag flash erase cmd
+[Debug] [2024-7-11 16:26:53] Send RPC:6
+[Debug] [2024-7-11 16:26:53] Begin to send embed flash erase data.
+[Debug] [2024-7-11 16:26:53] Begin to send flash erase data.
+[Debug] [2024-7-11 16:26:53] End to send flash erase data.
+[Debug] [2024-7-11 16:26:53] End to send embed flash erase data.
+[Debug] [2024-7-11 16:26:53] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-7-11 16:26:53] The value of Progress is 1
+[Debug] [2024-7-11 16:26:54] The value of Progress is 6
+[Debug] [2024-7-11 16:26:55] The value of Progress is 12
+[Debug] [2024-7-11 16:26:55] The value of Progress is 15
+[Debug] [2024-7-11 16:26:56] The value of Progress is 21
+[Debug] [2024-7-11 16:26:57] The value of Progress is 27
+[Debug] [2024-7-11 16:26:57] The value of Progress is 30
+[Debug] [2024-7-11 16:26:58] The value of Progress is 36
+[Debug] [2024-7-11 16:26:59] The value of Progress is 42
+[Debug] [2024-7-11 16:26:59] The value of Progress is 45
+[Debug] [2024-7-11 16:27:00] The value of Progress is 51
+[Debug] [2024-7-11 16:27:01] The value of Progress is 57
+[Debug] [2024-7-11 16:27:01] The value of Progress is 60
+[Debug] [2024-7-11 16:27:02] The value of Progress is 66
+[Debug] [2024-7-11 16:27:03] The value of Progress is 72
+[Debug] [2024-7-11 16:27:03] The value of Progress is 75
+[Debug] [2024-7-11 16:27:04] The value of Progress is 81
+[Debug] [2024-7-11 16:27:05] The value of Progress is 87
+[Debug] [2024-7-11 16:27:05] The value of Progress is 90
+[Debug] [2024-7-11 16:27:06] The value of Progress is 96
+[Debug] [2024-7-11 16:27:06] The value of Progress is 100
+[Debug] [2024-7-11 16:27:06] COMMAND[Erase Outer Flash] execute finish, takes 13.7 secs.
+[Debug] [2024-7-11 16:27:06] end to send jtag flash erase cmd.
+[Debug] [2024-7-11 16:27:06] Send RPC:7
+[Debug] [2024-7-11 16:27:06] Begin to send jtag flash program data.
+[Debug] [2024-7-11 16:27:06] Begin to send flash program data.
+[Debug] [2024-7-11 16:27:06] End to send flash program data.
+[Debug] [2024-7-11 16:27:06] End to send embed flash program data.
+[Debug] [2024-7-11 16:27:06] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-7-11 16:27:08] The value of Progress is 1
+[Debug] [2024-7-11 16:27:10] The value of Progress is 6
+[Debug] [2024-7-11 16:27:12] The value of Progress is 10
+[Debug] [2024-7-11 16:27:13] The value of Progress is 15
+[Debug] [2024-7-11 16:27:15] The value of Progress is 20
+[Debug] [2024-7-11 16:27:17] The value of Progress is 25
+[Debug] [2024-7-11 16:27:18] The value of Progress is 30
+[Debug] [2024-7-11 16:27:20] The value of Progress is 35
+[Debug] [2024-7-11 16:27:22] The value of Progress is 40
+[Debug] [2024-7-11 16:27:23] The value of Progress is 45
+[Debug] [2024-7-11 16:27:25] The value of Progress is 50
+[Debug] [2024-7-11 16:27:27] The value of Progress is 55
+[Debug] [2024-7-11 16:27:28] The value of Progress is 60
+[Debug] [2024-7-11 16:27:30] The value of Progress is 65
+[Debug] [2024-7-11 16:27:31] The value of Progress is 70
+[Debug] [2024-7-11 16:27:33] The value of Progress is 75
+[Debug] [2024-7-11 16:27:35] The value of Progress is 80
+[Debug] [2024-7-11 16:27:36] The value of Progress is 85
+[Debug] [2024-7-11 16:27:38] The value of Progress is 90
+[Debug] [2024-7-11 16:27:40] The value of Progress is 95
+[Debug] [2024-7-11 16:27:41] The value of Progress is 100
+[Debug] [2024-7-11 16:27:42] COMMAND[Program Outer Flash] execute finish, takes 35.2 secs.
+[Debug] [2024-7-11 16:27:42] begin to send jtag flash verify cmd
+[Debug] [2024-7-11 16:27:42] Send RPC:8
+[Debug] [2024-7-11 16:27:42] Begin to send embed flash verify data.
+[Debug] [2024-7-11 16:27:42] Begin to send flash verify data.
+[Debug] [2024-7-11 16:27:42] End to send flash verify data.
+[Debug] [2024-7-11 16:27:42] End to send embed flash verify data.
+[Debug] [2024-7-11 16:27:42] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-7-11 16:27:42] The value of Progress is 1
+[Debug] [2024-7-11 16:27:42] The value of Progress is 6
+[Debug] [2024-7-11 16:27:42] The value of Progress is 10
+[Debug] [2024-7-11 16:27:42] The value of Progress is 15
+[Debug] [2024-7-11 16:27:42] The value of Progress is 20
+[Debug] [2024-7-11 16:27:42] The value of Progress is 25
+[Debug] [2024-7-11 16:27:42] The value of Progress is 30
+[Debug] [2024-7-11 16:27:42] The value of Progress is 35
+[Debug] [2024-7-11 16:27:43] The value of Progress is 40
+[Debug] [2024-7-11 16:27:43] The value of Progress is 45
+[Debug] [2024-7-11 16:27:43] The value of Progress is 50
+[Debug] [2024-7-11 16:27:43] The value of Progress is 55
+[Debug] [2024-7-11 16:27:43] The value of Progress is 60
+[Debug] [2024-7-11 16:27:43] The value of Progress is 65
+[Debug] [2024-7-11 16:27:43] The value of Progress is 70
+[Debug] [2024-7-11 16:27:43] The value of Progress is 75
+[Debug] [2024-7-11 16:27:43] The value of Progress is 80
+[Debug] [2024-7-11 16:27:43] The value of Progress is 85
+[Debug] [2024-7-11 16:27:44] The value of Progress is 90
+[Debug] [2024-7-11 16:27:44] The value of Progress is 95
+[Debug] [2024-7-11 16:27:44] The value of Progress is 100
+[Debug] [2024-7-11 16:27:44] COMMAND[Verify Outer Flash] execute successfully, takes 2.5 secs.
+[Debug] [2024-7-11 16:27:44] end to send jtag flash verify cmd
+[Debug] [2024-7-11 16:27:44] end to send jtag flash program cmd.
+[Info] [2024-7-11 16:28:03] /***************************End Configration***************************/
+[Info] [2024-7-11 16:39:29] /***************************Start Configuration***************************/
+[Info] [2024-7-11 16:39:29] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-11 16:39:29] Version: 132640
+[Info] [2024-7-11 16:39:30] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:39:30] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-11 16:39:51] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-11 16:39:51] Client Local host name:zxh_dtp
+[Debug] [2024-7-11 16:39:51] Client Local Address:192.168.100.152
+[Debug] [2024-7-11 16:39:51] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-11 16:39:52] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-11 16:39:52] Finish.
+[Info] [2024-7-11 16:39:52] Connect server succeeded
+[Debug] [2024-7-11 16:39:52] Send RPC:1
+[Debug] [2024-7-11 16:39:52] Send cmd [check version information:40004] OK
+[Debug] [2024-7-11 16:39:52] Send RPC:2
+[Debug] [2024-7-11 16:39:52] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-11 16:39:52] Begin to send initialize chain cmd...
+[Debug] [2024-7-11 16:39:52] Send RPC:3
+[Debug] [2024-7-11 16:39:52] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-11 16:39:52] End to send initialize chain cmd.
+[Debug] [2024-7-11 16:39:52] COMMAND[check version information] execute successfully, takes 0.2 secs.
+[Debug] [2024-7-11 16:39:53] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2024-7-11 16:39:54] begin the exec of open cable cmd...
+[Debug] [2024-7-11 16:39:54] Begin to deal with chain from server...
+[Debug] [2024-7-11 16:39:54] Begin to set user chain...
+[Debug] [2024-7-11 16:39:54] End to set user chain.
+[Debug] [2024-7-11 16:39:54] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:39:54] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:39:55] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-11 16:39:55] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:39:55] end to get device info from CFG file...
+[Debug] [2024-7-11 16:39:55] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:39:55] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:39:55] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:39:55] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:39:55] End to deal wiht chain from server.
+[Debug] [2024-7-11 16:39:55] end the exec of open cable cmd.
+[Debug] [2024-7-11 16:39:55] COMMAND[Open config cable] execute successfully, takes 2.6 secs.
+[Debug] [2024-7-11 16:39:58] Begin to Converte file.
+[Debug] [2024-7-11 16:41:15] begin to parse sfc file.
+[Debug] [2024-7-11 16:41:15] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:41:15] end to get device info from CFG file...
+[Debug] [2024-7-11 16:41:15] begin to get device info from CFG file...
+[Debug] [2024-7-11 16:41:15] end to get device info from CFG file...
+[Debug] [2024-7-11 16:41:15] end to parse sfc file.
+[Debug] [2024-7-11 16:41:16] End to Converte file.
+[Debug] [2024-7-11 16:41:18] Begin to send scan outer flash cmd...
+[Debug] [2024-7-11 16:41:18] Send RPC:4
+[Debug] [2024-7-11 16:41:18] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-7-11 16:41:18] End to send scan outer flash cmd.
+[Debug] [2024-7-11 16:41:19] begin to exec scan jtag flash cmd...
+[Debug] [2024-7-11 16:41:19] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-7-11 16:41:19] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:41:19] End to update graphic item and tree item ...
+[Info] [2024-7-11 16:41:20] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sfc
+[Debug] [2024-7-11 16:41:20] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-11 16:41:20] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-11 16:41:20] Begin to update graphic item and tree item ...
+[Debug] [2024-7-11 16:41:20] End to update graphic item and tree item ...
+[Debug] [2024-7-11 16:41:20] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-7-11 16:41:20] end to exec scan jtag flash cmd...
+[Debug] [2024-7-11 16:41:20] COMMAND[Scan Outer SPI Flash] execute successfully, takes 1.5 secs.
+[Debug] [2024-7-11 16:41:24] begin to send promgram jtag flash cmd.
+[Debug] [2024-7-11 16:41:24] begin to send jtag flash erase cmd
+[Debug] [2024-7-11 16:41:24] Send RPC:5
+[Debug] [2024-7-11 16:41:24] Begin to send embed flash erase data.
+[Debug] [2024-7-11 16:41:24] Begin to send flash erase data.
+[Debug] [2024-7-11 16:41:24] End to send flash erase data.
+[Debug] [2024-7-11 16:41:24] End to send embed flash erase data.
+[Debug] [2024-7-11 16:41:24] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-7-11 16:41:25] The value of Progress is 1
+[Debug] [2024-7-11 16:41:26] The value of Progress is 6
+[Debug] [2024-7-11 16:41:27] The value of Progress is 12
+[Debug] [2024-7-11 16:41:27] The value of Progress is 15
+[Debug] [2024-7-11 16:41:28] The value of Progress is 21
+[Debug] [2024-7-11 16:41:29] The value of Progress is 27
+[Debug] [2024-7-11 16:41:29] The value of Progress is 30
+[Debug] [2024-7-11 16:41:30] The value of Progress is 36
+[Debug] [2024-7-11 16:41:31] The value of Progress is 42
+[Debug] [2024-7-11 16:41:31] The value of Progress is 45
+[Debug] [2024-7-11 16:41:32] The value of Progress is 51
+[Debug] [2024-7-11 16:41:33] The value of Progress is 57
+[Debug] [2024-7-11 16:41:33] The value of Progress is 60
+[Debug] [2024-7-11 16:41:34] The value of Progress is 66
+[Debug] [2024-7-11 16:41:35] The value of Progress is 72
+[Debug] [2024-7-11 16:41:35] The value of Progress is 75
+[Debug] [2024-7-11 16:41:36] The value of Progress is 81
+[Debug] [2024-7-11 16:41:37] The value of Progress is 87
+[Debug] [2024-7-11 16:41:37] The value of Progress is 90
+[Debug] [2024-7-11 16:41:38] The value of Progress is 96
+[Debug] [2024-7-11 16:41:38] The value of Progress is 100
+[Debug] [2024-7-11 16:41:38] COMMAND[Erase Outer Flash] execute finish, takes 13.9 secs.
+[Debug] [2024-7-11 16:41:38] end to send jtag flash erase cmd.
+[Debug] [2024-7-11 16:41:38] Send RPC:6
+[Debug] [2024-7-11 16:41:38] Begin to send jtag flash program data.
+[Debug] [2024-7-11 16:41:38] Begin to send flash program data.
+[Debug] [2024-7-11 16:41:38] End to send flash program data.
+[Debug] [2024-7-11 16:41:38] End to send embed flash program data.
+[Debug] [2024-7-11 16:41:38] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-7-11 16:41:40] The value of Progress is 1
+[Debug] [2024-7-11 16:41:42] The value of Progress is 6
+[Debug] [2024-7-11 16:41:44] The value of Progress is 10
+[Debug] [2024-7-11 16:41:45] The value of Progress is 15
+[Debug] [2024-7-11 16:41:47] The value of Progress is 20
+[Debug] [2024-7-11 16:41:49] The value of Progress is 25
+[Debug] [2024-7-11 16:41:50] The value of Progress is 30
+[Debug] [2024-7-11 16:41:52] The value of Progress is 35
+[Debug] [2024-7-11 16:41:54] The value of Progress is 40
+[Debug] [2024-7-11 16:41:55] The value of Progress is 45
+[Debug] [2024-7-11 16:41:57] The value of Progress is 50
+[Debug] [2024-7-11 16:41:59] The value of Progress is 55
+[Debug] [2024-7-11 16:42:00] The value of Progress is 60
+[Debug] [2024-7-11 16:42:02] The value of Progress is 65
+[Debug] [2024-7-11 16:42:03] The value of Progress is 70
+[Debug] [2024-7-11 16:42:05] The value of Progress is 75
+[Debug] [2024-7-11 16:42:07] The value of Progress is 80
+[Debug] [2024-7-11 16:42:08] The value of Progress is 85
+[Debug] [2024-7-11 16:42:10] The value of Progress is 90
+[Debug] [2024-7-11 16:42:12] The value of Progress is 95
+[Debug] [2024-7-11 16:42:13] The value of Progress is 100
+[Debug] [2024-7-11 16:42:13] COMMAND[Program Outer Flash] execute finish, takes 35.1 secs.
+[Debug] [2024-7-11 16:42:13] begin to send jtag flash verify cmd
+[Debug] [2024-7-11 16:42:13] Send RPC:7
+[Debug] [2024-7-11 16:42:13] Begin to send embed flash verify data.
+[Debug] [2024-7-11 16:42:13] Begin to send flash verify data.
+[Debug] [2024-7-11 16:42:13] End to send flash verify data.
+[Debug] [2024-7-11 16:42:13] End to send embed flash verify data.
+[Debug] [2024-7-11 16:42:13] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-7-11 16:42:14] The value of Progress is 1
+[Debug] [2024-7-11 16:42:14] The value of Progress is 6
+[Debug] [2024-7-11 16:42:14] The value of Progress is 10
+[Debug] [2024-7-11 16:42:14] The value of Progress is 15
+[Debug] [2024-7-11 16:42:14] The value of Progress is 20
+[Debug] [2024-7-11 16:42:14] The value of Progress is 25
+[Debug] [2024-7-11 16:42:14] The value of Progress is 30
+[Debug] [2024-7-11 16:42:14] The value of Progress is 35
+[Debug] [2024-7-11 16:42:14] The value of Progress is 40
+[Debug] [2024-7-11 16:42:15] The value of Progress is 45
+[Debug] [2024-7-11 16:42:15] The value of Progress is 50
+[Debug] [2024-7-11 16:42:15] The value of Progress is 55
+[Debug] [2024-7-11 16:42:15] The value of Progress is 60
+[Debug] [2024-7-11 16:42:15] The value of Progress is 65
+[Debug] [2024-7-11 16:42:15] The value of Progress is 70
+[Debug] [2024-7-11 16:42:15] The value of Progress is 75
+[Debug] [2024-7-11 16:42:15] The value of Progress is 80
+[Debug] [2024-7-11 16:42:15] The value of Progress is 85
+[Debug] [2024-7-11 16:42:15] The value of Progress is 90
+[Debug] [2024-7-11 16:42:16] The value of Progress is 95
+[Debug] [2024-7-11 16:42:16] The value of Progress is 100
+[Debug] [2024-7-11 16:42:16] COMMAND[Verify Outer Flash] execute successfully, takes 2.5 secs.
+[Debug] [2024-7-11 16:42:16] end to send jtag flash verify cmd
+[Debug] [2024-7-11 16:42:16] end to send jtag flash program cmd.
+[Info] [2024-7-11 16:42:24] /***************************End Configration***************************/
+[Info] [2024-7-13 23:13:11] /***************************Start Configuration***************************/
+[Info] [2024-7-13 23:13:11] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-13 23:13:11] Version: 132640
+[Info] [2024-7-13 23:13:12] Current Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-13 23:13:12] PDS Dir Path: C:/Projects/pango/Pango_voice/pnr/example_design
+[Info] [2024-7-13 23:13:14] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-13 23:13:14] Client Local host name:zxh_dtp
+[Debug] [2024-7-13 23:13:14] Client Local Address:192.168.1.125
+[Debug] [2024-7-13 23:13:14] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-13 23:13:15] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-13 23:13:15] Finish.
+[Info] [2024-7-13 23:13:15] Connect server succeeded
+[Debug] [2024-7-13 23:13:15] Send RPC:1
+[Debug] [2024-7-13 23:13:15] Send cmd [check version information:40004] OK
+[Debug] [2024-7-13 23:13:15] Send RPC:2
+[Debug] [2024-7-13 23:13:15] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-13 23:13:15] Begin to send initialize chain cmd...
+[Debug] [2024-7-13 23:13:15] Send RPC:3
+[Debug] [2024-7-13 23:13:15] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-13 23:13:15] End to send initialize chain cmd.
+[Debug] [2024-7-13 23:13:15] COMMAND[check version information] execute successfully, takes 0.1 secs.
+[Debug] [2024-7-13 23:13:16] COMMAND[get_cable_paras] execute successfully, takes 0.8 secs.
+[Debug] [2024-7-13 23:13:16] begin the exec of open cable cmd...
+[Debug] [2024-7-13 23:13:16] Begin to deal with chain from server...
+[Debug] [2024-7-13 23:13:16] Begin to set user chain...
+[Debug] [2024-7-13 23:13:16] End to set user chain.
+[Debug] [2024-7-13 23:13:16] Begin to update graphic item and tree item ...
+[Debug] [2024-7-13 23:13:16] End to update graphic item and tree item ...
+[Info] [2024-7-13 23:13:19] set OpenLastPath: C:/Projects/pango/Pango_voice/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-13 23:13:19] begin to get device info from CFG file...
+[Debug] [2024-7-13 23:13:19] end to get device info from CFG file...
+[Debug] [2024-7-13 23:13:19] Begin to update graphic item and tree item ...
+[Debug] [2024-7-13 23:13:19] End to update graphic item and tree item ...
+[Debug] [2024-7-13 23:13:19] Begin to update graphic item and tree item ...
+[Debug] [2024-7-13 23:13:19] End to update graphic item and tree item ...
+[Debug] [2024-7-13 23:13:19] End to deal wiht chain from server.
+[Debug] [2024-7-13 23:13:19] end the exec of open cable cmd.
+[Debug] [2024-7-13 23:13:19] COMMAND[Open config cable] execute successfully, takes 3.7 secs.
+[Info] [2024-7-13 23:15:40] /***************************End Configration***************************/
+[Info] [2024-7-14 16:05:41] /***************************Start Configuration***************************/
+[Info] [2024-7-14 16:05:41] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-14 16:05:41] Version: 132640
+[Info] [2024-7-14 16:05:42] Current Path: C:/Users/zxhan/Desktop/comp/Pango_magicbox/pnr/example_design
+[Info] [2024-7-14 16:05:42] PDS Dir Path: C:/Users/zxhan/Desktop/comp/Pango_magicbox/pnr/example_design
+[Debug] [2024-7-14 16:05:47] Begin to Converte file.
+[Debug] [2024-7-14 16:05:58] begin to parse sfc file.
+[Debug] [2024-7-14 16:05:58] begin to get device info from CFG file...
+[Debug] [2024-7-14 16:05:58] end to get device info from CFG file...
+[Debug] [2024-7-14 16:05:58] begin to get device info from CFG file...
+[Debug] [2024-7-14 16:05:58] end to get device info from CFG file...
+[Debug] [2024-7-14 16:05:58] end to parse sfc file.
+[Debug] [2024-7-14 16:05:59] End to Converte file.
+[Info] [2024-7-14 22:47:41] /***************************Start Configuration***************************/
+[Info] [2024-7-14 22:47:41] Path: D:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-7-14 22:47:41] Version: 132640
+[Info] [2024-7-14 22:47:43] Current Path: D:/FPGA/Pango_magicbox/pnr/example_design
+[Info] [2024-7-14 22:47:43] PDS Dir Path: D:/FPGA/Pango_magicbox/pnr/example_design
+[Debug] [2024-7-14 22:47:52] begin to add pango device by bitstream file.
+[Info] [2024-7-14 22:47:57] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 22:47:57] begin to get device info from CFG file...
+[Debug] [2024-7-14 22:47:57] end to get device info from CFG file...
+[Info] [2024-7-14 22:47:58] Loading file done : D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Info] [2024-7-14 22:47:58] Added device successfully : Logos-PGL50H
+[Debug] [2024-7-14 22:47:58] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 22:47:58] End to update graphic item and tree item ...
+[Debug] [2024-7-14 22:47:58] end to add pango device by bitstream file.
+[Debug] [2024-7-14 22:48:05] Begin to assign configuration file...
+[Info] [2024-7-14 22:48:09] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 22:48:09] begin to get device info from CFG file...
+[Debug] [2024-7-14 22:48:09] end to get device info from CFG file...
+[Debug] [2024-7-14 22:48:10] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:10] End to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:10] End to assign configuration file...
+[Info] [2024-7-14 22:48:21] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-7-14 22:48:21] Client Local host name:LAPTOP-EJEDQ2FU
+[Debug] [2024-7-14 22:48:21] Client Local Address:127.0.0.1
+[Debug] [2024-7-14 22:48:21] Server Address:127.0.0.1, Port:65420
+[Info] [2024-7-14 22:48:25] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-7-14 22:48:25] Finish.
+[Info] [2024-7-14 22:48:25] Connect server succeeded
+[Debug] [2024-7-14 22:48:25] Send RPC:1
+[Debug] [2024-7-14 22:48:25] Send cmd [check version information:40004] OK
+[Debug] [2024-7-14 22:48:26] Send RPC:2
+[Debug] [2024-7-14 22:48:26] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-7-14 22:48:26] Begin to send initialize chain cmd...
+[Debug] [2024-7-14 22:48:26] Send RPC:3
+[Debug] [2024-7-14 22:48:26] Send cmd [Open config cable:20001] OK
+[Debug] [2024-7-14 22:48:26] End to send initialize chain cmd.
+[Debug] [2024-7-14 22:48:26] COMMAND[check version information] execute successfully, takes 1.2 secs.
+[Debug] [2024-7-14 22:48:28] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2024-7-14 22:48:29] begin the exec of open cable cmd...
+[Debug] [2024-7-14 22:48:29] Begin to deal with chain from server...
+[Debug] [2024-7-14 22:48:29] Begin to set user chain...
+[Debug] [2024-7-14 22:48:29] End to set user chain.
+[Debug] [2024-7-14 22:48:29] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:29] End to update graphic item and tree item ...
+[Info] [2024-7-14 22:48:33] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 22:48:33] begin to get device info from CFG file...
+[Debug] [2024-7-14 22:48:33] end to get device info from CFG file...
+[Debug] [2024-7-14 22:48:34] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:34] End to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:34] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:34] End to update graphic item and tree item ...
+[Debug] [2024-7-14 22:48:34] End to deal wiht chain from server.
+[Debug] [2024-7-14 22:48:34] end the exec of open cable cmd.
+[Debug] [2024-7-14 22:48:34] COMMAND[Open config cable] execute successfully, takes 7.1 secs.
+[Debug] [2024-7-14 22:48:37] Begin to send programming cmd...
+[Debug] [2024-7-14 22:48:37] Send RPC:4
+[Debug] [2024-7-14 22:48:37] Begin to send program data.
+[Debug] [2024-7-14 22:48:37] End to send program data.
+[Debug] [2024-7-14 22:48:37] Send cmd [Program:20002] OK
+[Debug] [2024-7-14 22:48:37] The value of Progress is 6
+[Debug] [2024-7-14 22:48:37] The value of Progress is 10
+[Debug] [2024-7-14 22:48:37] The value of Progress is 15
+[Debug] [2024-7-14 22:48:37] The value of Progress is 20
+[Debug] [2024-7-14 22:48:37] The value of Progress is 25
+[Debug] [2024-7-14 22:48:37] The value of Progress is 30
+[Debug] [2024-7-14 22:48:37] The value of Progress is 35
+[Debug] [2024-7-14 22:48:37] The value of Progress is 40
+[Debug] [2024-7-14 22:48:38] The value of Progress is 45
+[Debug] [2024-7-14 22:48:38] The value of Progress is 50
+[Debug] [2024-7-14 22:48:38] The value of Progress is 55
+[Debug] [2024-7-14 22:48:38] The value of Progress is 60
+[Debug] [2024-7-14 22:48:38] The value of Progress is 65
+[Debug] [2024-7-14 22:48:38] The value of Progress is 70
+[Debug] [2024-7-14 22:48:38] The value of Progress is 75
+[Debug] [2024-7-14 22:48:38] The value of Progress is 80
+[Debug] [2024-7-14 22:48:38] The value of Progress is 85
+[Debug] [2024-7-14 22:48:38] The value of Progress is 90
+[Debug] [2024-7-14 22:48:38] The value of Progress is 95
+[Debug] [2024-7-14 22:48:38] The value of Progress is 100
+[Debug] [2024-7-14 22:48:39] COMMAND[Program] execute successfully, takes 2.2 secs.
+[Debug] [2024-7-14 22:48:39] End to send programming cmd.
+[Debug] [2024-7-14 22:49:23] Begin to send programming cmd...
+[Debug] [2024-7-14 22:49:23] Send RPC:5
+[Debug] [2024-7-14 22:49:23] Begin to send program data.
+[Debug] [2024-7-14 22:49:23] End to send program data.
+[Debug] [2024-7-14 22:49:23] Send cmd [Program:20002] OK
+[Debug] [2024-7-14 22:49:24] The value of Progress is 6
+[Debug] [2024-7-14 22:49:24] The value of Progress is 10
+[Debug] [2024-7-14 22:49:24] The value of Progress is 15
+[Debug] [2024-7-14 22:49:24] The value of Progress is 20
+[Debug] [2024-7-14 22:49:24] The value of Progress is 25
+[Debug] [2024-7-14 22:49:24] The value of Progress is 30
+[Debug] [2024-7-14 22:49:24] The value of Progress is 35
+[Debug] [2024-7-14 22:49:24] The value of Progress is 40
+[Debug] [2024-7-14 22:49:24] The value of Progress is 45
+[Debug] [2024-7-14 22:49:25] The value of Progress is 50
+[Debug] [2024-7-14 22:49:25] The value of Progress is 55
+[Debug] [2024-7-14 22:49:25] The value of Progress is 60
+[Debug] [2024-7-14 22:49:25] The value of Progress is 65
+[Debug] [2024-7-14 22:49:25] The value of Progress is 70
+[Debug] [2024-7-14 22:49:25] The value of Progress is 75
+[Debug] [2024-7-14 22:49:25] The value of Progress is 80
+[Debug] [2024-7-14 22:49:25] The value of Progress is 85
+[Debug] [2024-7-14 22:49:25] The value of Progress is 90
+[Debug] [2024-7-14 22:49:25] The value of Progress is 95
+[Debug] [2024-7-14 22:49:25] The value of Progress is 100
+[Debug] [2024-7-14 22:49:26] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2024-7-14 22:49:26] End to send programming cmd.
+[Debug] [2024-7-14 22:58:43] Begin to assign configuration file...
+[Info] [2024-7-14 22:58:46] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 22:58:46] begin to get device info from CFG file...
+[Debug] [2024-7-14 22:58:46] end to get device info from CFG file...
+[Debug] [2024-7-14 22:58:47] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 22:58:47] End to update graphic item and tree item ...
+[Debug] [2024-7-14 22:58:47] End to assign configuration file...
+[Debug] [2024-7-14 22:58:49] Begin to send programming cmd...
+[Debug] [2024-7-14 22:58:49] Send RPC:6
+[Debug] [2024-7-14 22:58:49] Begin to send program data.
+[Debug] [2024-7-14 22:58:49] End to send program data.
+[Debug] [2024-7-14 22:58:49] Send cmd [Program:20002] OK
+[Debug] [2024-7-14 22:58:50] The value of Progress is 6
+[Debug] [2024-7-14 22:58:50] The value of Progress is 10
+[Debug] [2024-7-14 22:58:50] The value of Progress is 15
+[Debug] [2024-7-14 22:58:50] The value of Progress is 20
+[Debug] [2024-7-14 22:58:50] The value of Progress is 25
+[Debug] [2024-7-14 22:58:50] The value of Progress is 30
+[Debug] [2024-7-14 22:58:50] The value of Progress is 35
+[Debug] [2024-7-14 22:58:50] The value of Progress is 40
+[Debug] [2024-7-14 22:58:50] The value of Progress is 45
+[Debug] [2024-7-14 22:58:50] The value of Progress is 50
+[Debug] [2024-7-14 22:58:50] The value of Progress is 55
+[Debug] [2024-7-14 22:58:51] The value of Progress is 60
+[Debug] [2024-7-14 22:58:51] The value of Progress is 65
+[Debug] [2024-7-14 22:58:51] The value of Progress is 70
+[Debug] [2024-7-14 22:58:51] The value of Progress is 75
+[Debug] [2024-7-14 22:58:51] The value of Progress is 80
+[Debug] [2024-7-14 22:58:51] The value of Progress is 85
+[Debug] [2024-7-14 22:58:51] The value of Progress is 90
+[Debug] [2024-7-14 22:58:51] The value of Progress is 95
+[Debug] [2024-7-14 22:58:51] The value of Progress is 100
+[Debug] [2024-7-14 22:58:52] COMMAND[Program] execute successfully, takes 2.3 secs.
+[Debug] [2024-7-14 22:58:52] End to send programming cmd.
+[Debug] [2024-7-14 23:04:30] Begin to send programming cmd...
+[Error] [2024-7-14 23:04:30] can not open bit stream file.
+[Debug] [2024-7-14 23:04:30] Send RPC:7
+[Debug] [2024-7-14 23:04:30] Begin to send program data.
+[Debug] [2024-7-14 23:04:30] End to send program data.
+[Debug] [2024-7-14 23:04:30] Send cmd [Program:20002] OK
+[Error] [2024-7-14 23:04:30] fail to exec Program cmd...
+[Debug] [2024-7-14 23:04:30] End to send programming cmd.
+[Debug] [2024-7-14 23:04:49] Begin to send programming cmd...
+[Error] [2024-7-14 23:04:49] can not open bit stream file.
+[Debug] [2024-7-14 23:04:49] Send RPC:8
+[Debug] [2024-7-14 23:04:49] Begin to send program data.
+[Debug] [2024-7-14 23:04:49] End to send program data.
+[Debug] [2024-7-14 23:04:49] Send cmd [Program:20002] OK
+[Error] [2024-7-14 23:04:49] fail to exec Program cmd...
+[Debug] [2024-7-14 23:04:49] End to send programming cmd.
+[Debug] [2024-7-14 23:05:07] Begin to assign configuration file...
+[Info] [2024-7-14 23:05:10] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 23:05:10] begin to get device info from CFG file...
+[Debug] [2024-7-14 23:05:10] end to get device info from CFG file...
+[Debug] [2024-7-14 23:05:10] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 23:05:10] End to update graphic item and tree item ...
+[Debug] [2024-7-14 23:05:10] End to assign configuration file...
+[Debug] [2024-7-14 23:05:13] Begin to send programming cmd...
+[Debug] [2024-7-14 23:05:13] Send RPC:9
+[Debug] [2024-7-14 23:05:13] Begin to send program data.
+[Debug] [2024-7-14 23:05:13] End to send program data.
+[Debug] [2024-7-14 23:05:13] Send cmd [Program:20002] OK
+[Debug] [2024-7-14 23:05:13] The value of Progress is 6
+[Debug] [2024-7-14 23:05:13] The value of Progress is 10
+[Debug] [2024-7-14 23:05:14] The value of Progress is 15
+[Debug] [2024-7-14 23:05:14] The value of Progress is 20
+[Debug] [2024-7-14 23:05:14] The value of Progress is 25
+[Debug] [2024-7-14 23:05:14] The value of Progress is 30
+[Debug] [2024-7-14 23:05:14] The value of Progress is 35
+[Debug] [2024-7-14 23:05:14] The value of Progress is 40
+[Debug] [2024-7-14 23:05:14] The value of Progress is 45
+[Debug] [2024-7-14 23:05:14] The value of Progress is 50
+[Debug] [2024-7-14 23:05:14] The value of Progress is 55
+[Debug] [2024-7-14 23:05:14] The value of Progress is 60
+[Debug] [2024-7-14 23:05:14] The value of Progress is 65
+[Debug] [2024-7-14 23:05:15] The value of Progress is 70
+[Debug] [2024-7-14 23:05:15] The value of Progress is 75
+[Debug] [2024-7-14 23:05:15] The value of Progress is 80
+[Debug] [2024-7-14 23:05:15] The value of Progress is 85
+[Debug] [2024-7-14 23:05:15] The value of Progress is 90
+[Debug] [2024-7-14 23:05:15] The value of Progress is 95
+[Debug] [2024-7-14 23:05:15] The value of Progress is 100
+[Debug] [2024-7-14 23:05:15] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-14 23:05:15] End to send programming cmd.
+[Debug] [2024-7-14 23:05:37] Begin to send scan outer flash cmd...
+[Debug] [2024-7-14 23:05:37] Send RPC:10
+[Debug] [2024-7-14 23:05:37] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-7-14 23:05:37] End to send scan outer flash cmd.
+[Debug] [2024-7-14 23:05:37] begin to exec scan jtag flash cmd...
+[Debug] [2024-7-14 23:05:37] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-7-14 23:05:37] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 23:05:37] End to update graphic item and tree item ...
+[Debug] [2024-7-14 23:06:20] selected file name is empty and ignore.
+[Debug] [2024-7-14 23:06:20] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-7-14 23:06:20] end to exec scan jtag flash cmd...
+[Debug] [2024-7-14 23:06:20] COMMAND[Scan Outer SPI Flash] execute successfully, takes 43.4 secs.
+[Debug] [2024-7-14 23:06:48] Begin to assign configuration file...
+[Debug] [2024-7-14 23:07:09] selected file name is empty and ignore.
+[Debug] [2024-7-14 23:07:09] End to assign configuration file...
+[Debug] [2024-7-14 23:08:02] Begin to assign configuration file...
+[Info] [2024-7-14 23:08:10] set OpenLastPath: D:/FPGA/Pango_magicbox/golden.sfc
+[Debug] [2024-7-14 23:08:10] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-14 23:08:10] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-7-14 23:08:10] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 23:08:10] End to update graphic item and tree item ...
+[Debug] [2024-7-14 23:08:10] End to assign configuration file...
+[Debug] [2024-7-14 23:08:12] begin to send promgram jtag flash cmd.
+[Debug] [2024-7-14 23:08:12] begin to send jtag flash erase cmd
+[Debug] [2024-7-14 23:08:12] Send RPC:11
+[Debug] [2024-7-14 23:08:12] Begin to send embed flash erase data.
+[Debug] [2024-7-14 23:08:12] Begin to send flash erase data.
+[Debug] [2024-7-14 23:08:12] End to send flash erase data.
+[Debug] [2024-7-14 23:08:12] End to send embed flash erase data.
+[Debug] [2024-7-14 23:08:12] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-7-14 23:08:13] The value of Progress is 1
+[Debug] [2024-7-14 23:08:14] The value of Progress is 6
+[Debug] [2024-7-14 23:08:15] The value of Progress is 12
+[Debug] [2024-7-14 23:08:15] The value of Progress is 15
+[Debug] [2024-7-14 23:08:16] The value of Progress is 21
+[Debug] [2024-7-14 23:08:17] The value of Progress is 27
+[Debug] [2024-7-14 23:08:17] The value of Progress is 30
+[Debug] [2024-7-14 23:08:18] The value of Progress is 36
+[Debug] [2024-7-14 23:08:18] The value of Progress is 42
+[Debug] [2024-7-14 23:08:19] The value of Progress is 45
+[Debug] [2024-7-14 23:08:20] The value of Progress is 51
+[Debug] [2024-7-14 23:08:20] The value of Progress is 57
+[Debug] [2024-7-14 23:08:21] The value of Progress is 60
+[Debug] [2024-7-14 23:08:21] The value of Progress is 66
+[Debug] [2024-7-14 23:08:22] The value of Progress is 72
+[Debug] [2024-7-14 23:08:23] The value of Progress is 75
+[Debug] [2024-7-14 23:08:23] The value of Progress is 81
+[Debug] [2024-7-14 23:08:24] The value of Progress is 87
+[Debug] [2024-7-14 23:08:25] The value of Progress is 90
+[Debug] [2024-7-14 23:08:25] The value of Progress is 96
+[Debug] [2024-7-14 23:08:25] The value of Progress is 100
+[Debug] [2024-7-14 23:08:25] COMMAND[Erase Outer Flash] execute finish, takes 13.1 secs.
+[Debug] [2024-7-14 23:08:25] end to send jtag flash erase cmd.
+[Debug] [2024-7-14 23:08:25] Send RPC:12
+[Debug] [2024-7-14 23:08:25] Begin to send jtag flash program data.
+[Debug] [2024-7-14 23:08:25] Begin to send flash program data.
+[Debug] [2024-7-14 23:08:25] End to send flash program data.
+[Debug] [2024-7-14 23:08:25] End to send embed flash program data.
+[Debug] [2024-7-14 23:08:25] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-7-14 23:08:28] The value of Progress is 1
+[Debug] [2024-7-14 23:08:30] The value of Progress is 6
+[Debug] [2024-7-14 23:08:31] The value of Progress is 10
+[Debug] [2024-7-14 23:08:33] The value of Progress is 15
+[Debug] [2024-7-14 23:08:34] The value of Progress is 20
+[Debug] [2024-7-14 23:08:36] The value of Progress is 25
+[Debug] [2024-7-14 23:08:38] The value of Progress is 30
+[Debug] [2024-7-14 23:08:39] The value of Progress is 35
+[Debug] [2024-7-14 23:08:41] The value of Progress is 40
+[Debug] [2024-7-14 23:08:42] The value of Progress is 45
+[Debug] [2024-7-14 23:08:44] The value of Progress is 50
+[Debug] [2024-7-14 23:08:46] The value of Progress is 55
+[Debug] [2024-7-14 23:08:47] The value of Progress is 60
+[Debug] [2024-7-14 23:08:49] The value of Progress is 65
+[Debug] [2024-7-14 23:08:51] The value of Progress is 70
+[Debug] [2024-7-14 23:08:52] The value of Progress is 75
+[Debug] [2024-7-14 23:08:54] The value of Progress is 80
+[Debug] [2024-7-14 23:08:56] The value of Progress is 85
+[Debug] [2024-7-14 23:08:57] The value of Progress is 90
+[Debug] [2024-7-14 23:08:59] The value of Progress is 95
+[Debug] [2024-7-14 23:09:01] The value of Progress is 100
+[Debug] [2024-7-14 23:09:01] COMMAND[Program Outer Flash] execute finish, takes 35.3 secs.
+[Debug] [2024-7-14 23:09:01] begin to send jtag flash verify cmd
+[Debug] [2024-7-14 23:09:01] Send RPC:13
+[Debug] [2024-7-14 23:09:01] Begin to send embed flash verify data.
+[Debug] [2024-7-14 23:09:01] Begin to send flash verify data.
+[Debug] [2024-7-14 23:09:01] End to send flash verify data.
+[Debug] [2024-7-14 23:09:01] End to send embed flash verify data.
+[Debug] [2024-7-14 23:09:01] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-7-14 23:09:01] The value of Progress is 1
+[Debug] [2024-7-14 23:09:01] The value of Progress is 6
+[Debug] [2024-7-14 23:09:01] The value of Progress is 10
+[Debug] [2024-7-14 23:09:01] The value of Progress is 15
+[Debug] [2024-7-14 23:09:01] The value of Progress is 20
+[Debug] [2024-7-14 23:09:01] The value of Progress is 25
+[Debug] [2024-7-14 23:09:02] The value of Progress is 30
+[Debug] [2024-7-14 23:09:02] The value of Progress is 35
+[Debug] [2024-7-14 23:09:02] The value of Progress is 40
+[Debug] [2024-7-14 23:09:02] The value of Progress is 45
+[Debug] [2024-7-14 23:09:02] The value of Progress is 50
+[Debug] [2024-7-14 23:09:02] The value of Progress is 55
+[Debug] [2024-7-14 23:09:02] The value of Progress is 60
+[Debug] [2024-7-14 23:09:02] The value of Progress is 65
+[Debug] [2024-7-14 23:09:02] The value of Progress is 70
+[Debug] [2024-7-14 23:09:02] The value of Progress is 75
+[Debug] [2024-7-14 23:09:03] The value of Progress is 80
+[Debug] [2024-7-14 23:09:03] The value of Progress is 85
+[Debug] [2024-7-14 23:09:03] The value of Progress is 90
+[Debug] [2024-7-14 23:09:03] The value of Progress is 95
+[Debug] [2024-7-14 23:09:03] The value of Progress is 100
+[Debug] [2024-7-14 23:09:03] COMMAND[Verify Outer Flash] execute successfully, takes 2.5 secs.
+[Debug] [2024-7-14 23:09:03] end to send jtag flash verify cmd
+[Debug] [2024-7-14 23:09:03] end to send jtag flash program cmd.
+[Debug] [2024-7-14 23:14:21] Begin to assign configuration file...
+[Info] [2024-7-14 23:14:32] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 23:14:32] begin to get device info from CFG file...
+[Debug] [2024-7-14 23:14:32] end to get device info from CFG file...
+[Debug] [2024-7-14 23:14:32] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 23:14:32] End to update graphic item and tree item ...
+[Debug] [2024-7-14 23:14:32] End to assign configuration file...
+[Debug] [2024-7-14 23:14:36] Begin to send programming cmd...
+[Debug] [2024-7-14 23:14:36] Send RPC:14
+[Debug] [2024-7-14 23:14:36] Begin to send program data.
+[Debug] [2024-7-14 23:14:36] End to send program data.
+[Debug] [2024-7-14 23:14:36] Send cmd [Program:20002] OK
+[Debug] [2024-7-14 23:14:36] The value of Progress is 6
+[Debug] [2024-7-14 23:14:36] The value of Progress is 10
+[Debug] [2024-7-14 23:14:36] The value of Progress is 15
+[Debug] [2024-7-14 23:14:36] The value of Progress is 20
+[Debug] [2024-7-14 23:14:36] The value of Progress is 25
+[Debug] [2024-7-14 23:14:36] The value of Progress is 30
+[Debug] [2024-7-14 23:14:37] The value of Progress is 35
+[Debug] [2024-7-14 23:14:37] The value of Progress is 40
+[Debug] [2024-7-14 23:14:37] The value of Progress is 45
+[Debug] [2024-7-14 23:14:37] The value of Progress is 50
+[Debug] [2024-7-14 23:14:37] The value of Progress is 55
+[Debug] [2024-7-14 23:14:37] The value of Progress is 60
+[Debug] [2024-7-14 23:14:37] The value of Progress is 65
+[Debug] [2024-7-14 23:14:37] The value of Progress is 70
+[Debug] [2024-7-14 23:14:37] The value of Progress is 75
+[Debug] [2024-7-14 23:14:37] The value of Progress is 80
+[Debug] [2024-7-14 23:14:37] The value of Progress is 85
+[Debug] [2024-7-14 23:14:38] The value of Progress is 90
+[Debug] [2024-7-14 23:14:38] The value of Progress is 95
+[Debug] [2024-7-14 23:14:38] The value of Progress is 100
+[Debug] [2024-7-14 23:14:38] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-14 23:14:38] End to send programming cmd.
+[Debug] [2024-7-14 23:25:18] Begin to assign configuration file...
+[Info] [2024-7-14 23:25:21] set OpenLastPath: D:/FPGA/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-7-14 23:25:21] begin to get device info from CFG file...
+[Debug] [2024-7-14 23:25:21] end to get device info from CFG file...
+[Debug] [2024-7-14 23:25:21] Begin to update graphic item and tree item ...
+[Debug] [2024-7-14 23:25:21] End to update graphic item and tree item ...
+[Debug] [2024-7-14 23:25:21] End to assign configuration file...
+[Debug] [2024-7-14 23:25:25] Begin to send programming cmd...
+[Debug] [2024-7-14 23:25:25] Send RPC:15
+[Debug] [2024-7-14 23:25:25] Begin to send program data.
+[Debug] [2024-7-14 23:25:25] End to send program data.
+[Debug] [2024-7-14 23:25:25] Send cmd [Program:20002] OK
+[Debug] [2024-7-14 23:25:25] The value of Progress is 6
+[Debug] [2024-7-14 23:25:25] The value of Progress is 10
+[Debug] [2024-7-14 23:25:26] The value of Progress is 15
+[Debug] [2024-7-14 23:25:26] The value of Progress is 20
+[Debug] [2024-7-14 23:25:26] The value of Progress is 25
+[Debug] [2024-7-14 23:25:26] The value of Progress is 30
+[Debug] [2024-7-14 23:25:26] The value of Progress is 35
+[Debug] [2024-7-14 23:25:26] The value of Progress is 40
+[Debug] [2024-7-14 23:25:26] The value of Progress is 45
+[Debug] [2024-7-14 23:25:26] The value of Progress is 50
+[Debug] [2024-7-14 23:25:26] The value of Progress is 55
+[Debug] [2024-7-14 23:25:26] The value of Progress is 60
+[Debug] [2024-7-14 23:25:26] The value of Progress is 65
+[Debug] [2024-7-14 23:25:26] The value of Progress is 70
+[Debug] [2024-7-14 23:25:27] The value of Progress is 75
+[Debug] [2024-7-14 23:25:27] The value of Progress is 80
+[Debug] [2024-7-14 23:25:27] The value of Progress is 85
+[Debug] [2024-7-14 23:25:27] The value of Progress is 90
+[Debug] [2024-7-14 23:25:27] The value of Progress is 95
+[Debug] [2024-7-14 23:25:27] The value of Progress is 100
+[Debug] [2024-7-14 23:25:27] COMMAND[Program] execute successfully, takes 2.0 secs.
+[Debug] [2024-7-14 23:25:27] End to send programming cmd.
+[Info] [2024-7-14 23:25:38] /***************************End Configration***************************/
+[Info] [2024-8-17 13:40:16] /***************************Start Configuration***************************/
+[Info] [2024-8-17 13:40:16] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-8-17 13:40:16] Version: 132640
+[Info] [2024-8-17 13:40:17] Current Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 13:40:17] PDS Dir Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 13:40:22] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-8-17 13:40:22] Client Local host name:DESKTOP-HF0O1AK
+[Debug] [2024-8-17 13:40:22] Client Local Address:192.168.100.149
+[Debug] [2024-8-17 13:40:22] Server Address:127.0.0.1, Port:65420
+[Info] [2024-8-17 13:40:24] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-8-17 13:40:24] Finish.
+[Info] [2024-8-17 13:40:24] Connect server succeeded
+[Debug] [2024-8-17 13:40:24] Send RPC:1
+[Debug] [2024-8-17 13:40:24] Send cmd [check version information:40004] OK
+[Debug] [2024-8-17 13:40:26] Send RPC:2
+[Debug] [2024-8-17 13:40:26] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-8-17 13:40:26] Begin to send initialize chain cmd...
+[Debug] [2024-8-17 13:40:26] Send RPC:3
+[Debug] [2024-8-17 13:40:26] Send cmd [Open config cable:20001] OK
+[Debug] [2024-8-17 13:40:26] End to send initialize chain cmd.
+[Debug] [2024-8-17 13:40:26] COMMAND[check version information] execute successfully, takes 1.8 secs.
+[Debug] [2024-8-17 13:40:27] COMMAND[get_cable_paras] execute successfully, takes 1.8 secs.
+[Debug] [2024-8-17 13:40:28] begin the exec of open cable cmd...
+[Debug] [2024-8-17 13:40:28] Begin to deal with chain from server...
+[Debug] [2024-8-17 13:40:28] Begin to set user chain...
+[Debug] [2024-8-17 13:40:28] End to set user chain.
+[Debug] [2024-8-17 13:40:28] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 13:40:28] End to update graphic item and tree item ...
+[Info] [2024-8-17 13:40:36] set OpenLastPath: D:/projects/pango/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-8-17 13:40:36] begin to get device info from CFG file...
+[Debug] [2024-8-17 13:40:36] end to get device info from CFG file...
+[Debug] [2024-8-17 13:40:36] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 13:40:36] End to update graphic item and tree item ...
+[Debug] [2024-8-17 13:40:36] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 13:40:36] End to update graphic item and tree item ...
+[Debug] [2024-8-17 13:40:36] End to deal wiht chain from server.
+[Debug] [2024-8-17 13:40:36] end the exec of open cable cmd.
+[Debug] [2024-8-17 13:40:36] COMMAND[Open config cable] execute successfully, takes 10.5 secs.
+[Debug] [2024-8-17 13:40:40] Begin to send programming cmd...
+[Debug] [2024-8-17 13:40:40] Send RPC:4
+[Debug] [2024-8-17 13:40:40] Begin to send program data.
+[Debug] [2024-8-17 13:40:40] End to send program data.
+[Debug] [2024-8-17 13:40:40] Send cmd [Program:20002] OK
+[Debug] [2024-8-17 13:40:41] The value of Progress is 6
+[Debug] [2024-8-17 13:40:41] The value of Progress is 10
+[Debug] [2024-8-17 13:40:41] The value of Progress is 15
+[Debug] [2024-8-17 13:40:41] The value of Progress is 20
+[Debug] [2024-8-17 13:40:41] The value of Progress is 25
+[Debug] [2024-8-17 13:40:41] The value of Progress is 30
+[Debug] [2024-8-17 13:40:41] The value of Progress is 35
+[Debug] [2024-8-17 13:40:41] The value of Progress is 40
+[Debug] [2024-8-17 13:40:41] The value of Progress is 45
+[Debug] [2024-8-17 13:40:42] The value of Progress is 50
+[Debug] [2024-8-17 13:40:42] The value of Progress is 55
+[Debug] [2024-8-17 13:40:42] The value of Progress is 60
+[Debug] [2024-8-17 13:40:42] The value of Progress is 65
+[Debug] [2024-8-17 13:40:42] The value of Progress is 70
+[Debug] [2024-8-17 13:40:42] The value of Progress is 75
+[Debug] [2024-8-17 13:40:42] The value of Progress is 80
+[Debug] [2024-8-17 13:40:42] The value of Progress is 85
+[Debug] [2024-8-17 13:40:42] The value of Progress is 90
+[Debug] [2024-8-17 13:40:42] The value of Progress is 95
+[Debug] [2024-8-17 13:40:42] The value of Progress is 100
+[Debug] [2024-8-17 13:40:43] COMMAND[Program] execute successfully, takes 2.5 secs.
+[Debug] [2024-8-17 13:40:43] End to send programming cmd.
+[Info] [2024-8-17 14:03:28] /***************************End Configration***************************/
+[Info] [2024-8-17 14:03:42] /***************************Start Configuration***************************/
+[Info] [2024-8-17 14:03:42] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-8-17 14:03:42] Version: 132640
+[Info] [2024-8-17 14:03:43] Current Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 14:03:43] PDS Dir Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 14:03:47] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-8-17 14:03:47] Client Local host name:DESKTOP-HF0O1AK
+[Debug] [2024-8-17 14:03:47] Client Local Address:192.168.100.149
+[Debug] [2024-8-17 14:03:47] Server Address:127.0.0.1, Port:65420
+[Info] [2024-8-17 14:03:48] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-8-17 14:03:48] Finish.
+[Info] [2024-8-17 14:03:48] Connect server succeeded
+[Debug] [2024-8-17 14:03:48] Send RPC:1
+[Debug] [2024-8-17 14:03:48] Send cmd [check version information:40004] OK
+[Debug] [2024-8-17 14:03:49] Send RPC:2
+[Debug] [2024-8-17 14:03:49] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-8-17 14:03:49] Begin to send initialize chain cmd...
+[Debug] [2024-8-17 14:03:49] Send RPC:3
+[Debug] [2024-8-17 14:03:49] Send cmd [Open config cable:20001] OK
+[Debug] [2024-8-17 14:03:49] End to send initialize chain cmd.
+[Debug] [2024-8-17 14:03:49] COMMAND[check version information] execute successfully, takes 0.7 secs.
+[Debug] [2024-8-17 14:03:50] COMMAND[get_cable_paras] execute successfully, takes 1.2 secs.
+[Debug] [2024-8-17 14:03:51] begin the exec of open cable cmd...
+[Debug] [2024-8-17 14:03:51] Begin to deal with chain from server...
+[Debug] [2024-8-17 14:03:51] Begin to set user chain...
+[Debug] [2024-8-17 14:03:51] End to set user chain.
+[Debug] [2024-8-17 14:03:51] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 14:03:51] End to update graphic item and tree item ...
+[Info] [2024-8-17 14:03:55] set OpenLastPath: D:/projects/pango/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-8-17 14:03:55] begin to get device info from CFG file...
+[Debug] [2024-8-17 14:03:55] end to get device info from CFG file...
+[Debug] [2024-8-17 14:03:55] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 14:03:55] End to update graphic item and tree item ...
+[Debug] [2024-8-17 14:03:55] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 14:03:55] End to update graphic item and tree item ...
+[Debug] [2024-8-17 14:03:55] End to deal wiht chain from server.
+[Debug] [2024-8-17 14:03:55] end the exec of open cable cmd.
+[Debug] [2024-8-17 14:03:55] COMMAND[Open config cable] execute successfully, takes 5.7 secs.
+[Debug] [2024-8-17 14:03:58] Begin to send programming cmd...
+[Debug] [2024-8-17 14:03:58] Send RPC:4
+[Debug] [2024-8-17 14:03:58] Begin to send program data.
+[Debug] [2024-8-17 14:03:58] End to send program data.
+[Debug] [2024-8-17 14:03:58] Send cmd [Program:20002] OK
+[Debug] [2024-8-17 14:03:59] The value of Progress is 6
+[Debug] [2024-8-17 14:03:59] The value of Progress is 10
+[Debug] [2024-8-17 14:03:59] The value of Progress is 15
+[Debug] [2024-8-17 14:03:59] The value of Progress is 20
+[Debug] [2024-8-17 14:03:59] The value of Progress is 25
+[Debug] [2024-8-17 14:03:59] The value of Progress is 30
+[Debug] [2024-8-17 14:03:59] The value of Progress is 35
+[Debug] [2024-8-17 14:03:59] The value of Progress is 40
+[Debug] [2024-8-17 14:03:59] The value of Progress is 45
+[Debug] [2024-8-17 14:04:00] The value of Progress is 50
+[Debug] [2024-8-17 14:04:00] The value of Progress is 55
+[Debug] [2024-8-17 14:04:00] The value of Progress is 60
+[Debug] [2024-8-17 14:04:00] The value of Progress is 65
+[Debug] [2024-8-17 14:04:00] The value of Progress is 70
+[Debug] [2024-8-17 14:04:00] The value of Progress is 75
+[Debug] [2024-8-17 14:04:00] The value of Progress is 80
+[Debug] [2024-8-17 14:04:00] The value of Progress is 85
+[Debug] [2024-8-17 14:04:00] The value of Progress is 90
+[Debug] [2024-8-17 14:04:00] The value of Progress is 95
+[Debug] [2024-8-17 14:04:00] The value of Progress is 100
+[Debug] [2024-8-17 14:04:01] COMMAND[Program] execute successfully, takes 2.5 secs.
+[Debug] [2024-8-17 14:04:01] End to send programming cmd.
+[Debug] [2024-8-17 14:05:08] Begin to send programming cmd...
+[Debug] [2024-8-17 14:05:08] Send RPC:5
+[Debug] [2024-8-17 14:05:08] Begin to send program data.
+[Debug] [2024-8-17 14:05:08] End to send program data.
+[Debug] [2024-8-17 14:05:08] Send cmd [Program:20002] OK
+[Debug] [2024-8-17 14:05:09] The value of Progress is 6
+[Debug] [2024-8-17 14:05:09] The value of Progress is 10
+[Debug] [2024-8-17 14:05:09] The value of Progress is 15
+[Debug] [2024-8-17 14:05:09] The value of Progress is 20
+[Debug] [2024-8-17 14:05:09] The value of Progress is 25
+[Debug] [2024-8-17 14:05:09] The value of Progress is 30
+[Debug] [2024-8-17 14:05:09] The value of Progress is 35
+[Debug] [2024-8-17 14:05:10] The value of Progress is 40
+[Debug] [2024-8-17 14:05:10] The value of Progress is 45
+[Debug] [2024-8-17 14:05:10] The value of Progress is 50
+[Debug] [2024-8-17 14:05:10] The value of Progress is 55
+[Debug] [2024-8-17 14:05:10] The value of Progress is 60
+[Debug] [2024-8-17 14:05:10] The value of Progress is 65
+[Debug] [2024-8-17 14:05:10] The value of Progress is 70
+[Debug] [2024-8-17 14:05:10] The value of Progress is 75
+[Debug] [2024-8-17 14:05:10] The value of Progress is 80
+[Debug] [2024-8-17 14:05:10] The value of Progress is 85
+[Debug] [2024-8-17 14:05:10] The value of Progress is 90
+[Debug] [2024-8-17 14:05:10] The value of Progress is 95
+[Debug] [2024-8-17 14:05:11] The value of Progress is 100
+[Debug] [2024-8-17 14:05:11] COMMAND[Program] execute successfully, takes 2.5 secs.
+[Debug] [2024-8-17 14:05:11] End to send programming cmd.
+[Debug] [2024-8-17 14:37:46] Begin to send initialize chain cmd...
+[Debug] [2024-8-17 14:37:46] Send RPC:6
+[Debug] [2024-8-17 14:37:46] Send cmd [Open config cable:20001] OK
+[Debug] [2024-8-17 14:37:46] End to send initialize chain cmd.
+[Debug] [2024-8-17 14:37:47] begin the exec of open cable cmd...
+[Debug] [2024-8-17 14:37:47] Begin to deal with chain from server...
+[Debug] [2024-8-17 14:37:47] Begin to set user chain...
+[Debug] [2024-8-17 14:37:47] End to set user chain.
+[Debug] [2024-8-17 14:37:47] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 14:37:47] End to update graphic item and tree item ...
+[Info] [2024-8-17 14:37:49] set OpenLastPath: D:/projects/pango/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-8-17 14:37:49] begin to get device info from CFG file...
+[Debug] [2024-8-17 14:37:49] end to get device info from CFG file...
+[Debug] [2024-8-17 14:37:49] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 14:37:49] End to update graphic item and tree item ...
+[Debug] [2024-8-17 14:37:49] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 14:37:49] End to update graphic item and tree item ...
+[Debug] [2024-8-17 14:37:49] End to deal wiht chain from server.
+[Debug] [2024-8-17 14:37:49] end the exec of open cable cmd.
+[Debug] [2024-8-17 14:37:49] COMMAND[Open config cable] execute successfully, takes 3.2 secs.
+[Debug] [2024-8-17 14:37:51] Begin to send programming cmd...
+[Debug] [2024-8-17 14:37:51] Send RPC:7
+[Debug] [2024-8-17 14:37:51] Begin to send program data.
+[Debug] [2024-8-17 14:37:51] End to send program data.
+[Debug] [2024-8-17 14:37:51] Send cmd [Program:20002] OK
+[Debug] [2024-8-17 14:37:52] The value of Progress is 6
+[Debug] [2024-8-17 14:37:52] The value of Progress is 10
+[Debug] [2024-8-17 14:37:52] The value of Progress is 15
+[Debug] [2024-8-17 14:37:52] The value of Progress is 20
+[Debug] [2024-8-17 14:37:52] The value of Progress is 25
+[Debug] [2024-8-17 14:37:52] The value of Progress is 30
+[Debug] [2024-8-17 14:37:52] The value of Progress is 35
+[Debug] [2024-8-17 14:37:52] The value of Progress is 40
+[Debug] [2024-8-17 14:37:53] The value of Progress is 45
+[Debug] [2024-8-17 14:37:53] The value of Progress is 50
+[Debug] [2024-8-17 14:37:53] The value of Progress is 55
+[Debug] [2024-8-17 14:37:53] The value of Progress is 60
+[Debug] [2024-8-17 14:37:53] The value of Progress is 65
+[Debug] [2024-8-17 14:37:53] The value of Progress is 70
+[Debug] [2024-8-17 14:37:53] The value of Progress is 75
+[Debug] [2024-8-17 14:37:53] The value of Progress is 80
+[Debug] [2024-8-17 14:37:53] The value of Progress is 85
+[Debug] [2024-8-17 14:37:53] The value of Progress is 90
+[Debug] [2024-8-17 14:37:53] The value of Progress is 95
+[Debug] [2024-8-17 14:37:53] The value of Progress is 100
+[Debug] [2024-8-17 14:37:54] COMMAND[Program] execute successfully, takes 2.5 secs.
+[Debug] [2024-8-17 14:37:54] End to send programming cmd.
+[Info] [2024-8-17 14:38:26] /***************************End Configration***************************/
+[Info] [2024-8-17 15:26:58] /***************************Start Configuration***************************/
+[Info] [2024-8-17 15:26:58] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-8-17 15:26:58] Version: 132640
+[Info] [2024-8-17 15:26:59] Current Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 15:26:59] PDS Dir Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 15:27:01] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-8-17 15:27:01] Client Local host name:DESKTOP-HF0O1AK
+[Debug] [2024-8-17 15:27:01] Client Local Address:192.168.100.149
+[Debug] [2024-8-17 15:27:01] Server Address:127.0.0.1, Port:65420
+[Info] [2024-8-17 15:27:03] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-8-17 15:27:03] Finish.
+[Info] [2024-8-17 15:27:03] Connect server succeeded
+[Debug] [2024-8-17 15:27:03] Send RPC:1
+[Debug] [2024-8-17 15:27:03] Send cmd [check version information:40004] OK
+[Debug] [2024-8-17 15:27:05] Send RPC:2
+[Debug] [2024-8-17 15:27:05] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-8-17 15:27:05] Begin to send initialize chain cmd...
+[Debug] [2024-8-17 15:27:05] Send RPC:3
+[Debug] [2024-8-17 15:27:05] Send cmd [Open config cable:20001] OK
+[Debug] [2024-8-17 15:27:05] End to send initialize chain cmd.
+[Debug] [2024-8-17 15:27:05] COMMAND[check version information] execute successfully, takes 1.8 secs.
+[Debug] [2024-8-17 15:27:06] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2024-8-17 15:27:07] begin the exec of open cable cmd...
+[Debug] [2024-8-17 15:27:07] Begin to deal with chain from server...
+[Debug] [2024-8-17 15:27:07] Begin to set user chain...
+[Debug] [2024-8-17 15:27:07] End to set user chain.
+[Debug] [2024-8-17 15:27:07] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 15:27:08] End to update graphic item and tree item ...
+[Info] [2024-8-17 15:27:10] set OpenLastPath: D:/projects/pango/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-8-17 15:27:10] begin to get device info from CFG file...
+[Debug] [2024-8-17 15:27:10] end to get device info from CFG file...
+[Debug] [2024-8-17 15:27:10] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 15:27:10] End to update graphic item and tree item ...
+[Debug] [2024-8-17 15:27:10] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 15:27:10] End to update graphic item and tree item ...
+[Debug] [2024-8-17 15:27:10] End to deal wiht chain from server.
+[Debug] [2024-8-17 15:27:10] end the exec of open cable cmd.
+[Debug] [2024-8-17 15:27:10] COMMAND[Open config cable] execute successfully, takes 5.4 secs.
+[Debug] [2024-8-17 15:27:11] Begin to send programming cmd...
+[Debug] [2024-8-17 15:27:11] Send RPC:4
+[Debug] [2024-8-17 15:27:11] Begin to send program data.
+[Debug] [2024-8-17 15:27:11] End to send program data.
+[Debug] [2024-8-17 15:27:11] Send cmd [Program:20002] OK
+[Debug] [2024-8-17 15:27:12] The value of Progress is 6
+[Debug] [2024-8-17 15:27:12] The value of Progress is 10
+[Debug] [2024-8-17 15:27:12] The value of Progress is 15
+[Debug] [2024-8-17 15:27:12] The value of Progress is 20
+[Debug] [2024-8-17 15:27:12] The value of Progress is 25
+[Debug] [2024-8-17 15:27:12] The value of Progress is 30
+[Debug] [2024-8-17 15:27:12] The value of Progress is 35
+[Debug] [2024-8-17 15:27:12] The value of Progress is 40
+[Debug] [2024-8-17 15:27:13] The value of Progress is 45
+[Debug] [2024-8-17 15:27:13] The value of Progress is 50
+[Debug] [2024-8-17 15:27:13] The value of Progress is 55
+[Debug] [2024-8-17 15:27:13] The value of Progress is 60
+[Debug] [2024-8-17 15:27:13] The value of Progress is 65
+[Debug] [2024-8-17 15:27:13] The value of Progress is 70
+[Debug] [2024-8-17 15:27:13] The value of Progress is 75
+[Debug] [2024-8-17 15:27:13] The value of Progress is 80
+[Debug] [2024-8-17 15:27:13] The value of Progress is 85
+[Debug] [2024-8-17 15:27:13] The value of Progress is 90
+[Debug] [2024-8-17 15:27:13] The value of Progress is 95
+[Debug] [2024-8-17 15:27:13] The value of Progress is 100
+[Debug] [2024-8-17 15:27:14] COMMAND[Program] execute successfully, takes 2.5 secs.
+[Debug] [2024-8-17 15:27:14] End to send programming cmd.
+[Debug] [2024-8-17 15:41:29] Begin to Converte file.
+[Debug] [2024-8-17 15:41:57] begin to parse sfc file.
+[Debug] [2024-8-17 15:41:57] begin to get device info from CFG file...
+[Debug] [2024-8-17 15:41:57] end to get device info from CFG file...
+[Debug] [2024-8-17 15:41:57] begin to get device info from CFG file...
+[Debug] [2024-8-17 15:41:57] end to get device info from CFG file...
+[Debug] [2024-8-17 15:41:57] end to parse sfc file.
+[Debug] [2024-8-17 15:41:59] End to Converte file.
+[Debug] [2024-8-17 15:42:04] Begin to send scan outer flash cmd...
+[Debug] [2024-8-17 15:42:04] Send RPC:5
+[Debug] [2024-8-17 15:42:04] Send cmd [Scan Outer SPI Flash:20300] OK
+[Debug] [2024-8-17 15:42:04] End to send scan outer flash cmd.
+[Debug] [2024-8-17 15:42:05] begin to exec scan jtag flash cmd...
+[Debug] [2024-8-17 15:42:05] Begin to initialize JtagFlash for selected FPGA Device...
+[Debug] [2024-8-17 15:42:05] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 15:42:05] End to update graphic item and tree item ...
+[Info] [2024-8-17 15:42:07] set OpenLastPath: D:/projects/pango/Pango_magicbox/pnr/example_design/generate_bitstream/top.sfc
+[Debug] [2024-8-17 15:42:07] begin to check SFC File and Flash Device Read Mode.
+[Debug] [2024-8-17 15:42:07] end to check SFC File and Flash Device Read Mode.
+[Debug] [2024-8-17 15:42:07] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 15:42:07] End to update graphic item and tree item ...
+[Debug] [2024-8-17 15:42:07] End to initialize OuterFlash for selected FPGA Device...
+[Debug] [2024-8-17 15:42:07] end to exec scan jtag flash cmd...
+[Debug] [2024-8-17 15:42:07] COMMAND[Scan Outer SPI Flash] execute successfully, takes 3.0 secs.
+[Debug] [2024-8-17 15:42:35] begin to send promgram jtag flash cmd.
+[Debug] [2024-8-17 15:42:35] begin to send jtag flash erase cmd
+[Debug] [2024-8-17 15:42:35] Send RPC:6
+[Debug] [2024-8-17 15:42:35] Begin to send embed flash erase data.
+[Debug] [2024-8-17 15:42:35] Begin to send flash erase data.
+[Debug] [2024-8-17 15:42:35] End to send flash erase data.
+[Debug] [2024-8-17 15:42:35] End to send embed flash erase data.
+[Debug] [2024-8-17 15:42:35] Send cmd [Erase Outer Flash:20302] OK
+[Debug] [2024-8-17 15:42:36] The value of Progress is 1
+[Debug] [2024-8-17 15:42:37] The value of Progress is 6
+[Debug] [2024-8-17 15:42:38] The value of Progress is 12
+[Debug] [2024-8-17 15:42:38] The value of Progress is 15
+[Debug] [2024-8-17 15:42:39] The value of Progress is 21
+[Debug] [2024-8-17 15:42:40] The value of Progress is 27
+[Debug] [2024-8-17 15:42:40] The value of Progress is 30
+[Debug] [2024-8-17 15:42:41] The value of Progress is 36
+[Debug] [2024-8-17 15:42:42] The value of Progress is 42
+[Debug] [2024-8-17 15:42:42] The value of Progress is 45
+[Debug] [2024-8-17 15:42:43] The value of Progress is 51
+[Debug] [2024-8-17 15:42:44] The value of Progress is 57
+[Debug] [2024-8-17 15:42:44] The value of Progress is 60
+[Debug] [2024-8-17 15:42:45] The value of Progress is 66
+[Debug] [2024-8-17 15:42:46] The value of Progress is 72
+[Debug] [2024-8-17 15:42:46] The value of Progress is 75
+[Debug] [2024-8-17 15:42:47] The value of Progress is 81
+[Debug] [2024-8-17 15:42:48] The value of Progress is 87
+[Debug] [2024-8-17 15:42:48] The value of Progress is 90
+[Debug] [2024-8-17 15:42:49] The value of Progress is 96
+[Debug] [2024-8-17 15:42:49] The value of Progress is 100
+[Debug] [2024-8-17 15:42:49] COMMAND[Erase Outer Flash] execute finish, takes 13.8 secs.
+[Debug] [2024-8-17 15:42:49] end to send jtag flash erase cmd.
+[Debug] [2024-8-17 15:42:49] Send RPC:7
+[Debug] [2024-8-17 15:42:49] Begin to send jtag flash program data.
+[Debug] [2024-8-17 15:42:49] Begin to send flash program data.
+[Debug] [2024-8-17 15:42:49] End to send flash program data.
+[Debug] [2024-8-17 15:42:49] End to send embed flash program data.
+[Debug] [2024-8-17 15:42:49] Send cmd [Program Outer Flash:20301] OK
+[Debug] [2024-8-17 15:42:52] The value of Progress is 1
+[Debug] [2024-8-17 15:42:54] The value of Progress is 6
+[Debug] [2024-8-17 15:42:55] The value of Progress is 10
+[Debug] [2024-8-17 15:42:56] The value of Progress is 15
+[Debug] [2024-8-17 15:42:58] The value of Progress is 20
+[Debug] [2024-8-17 15:43:00] The value of Progress is 25
+[Debug] [2024-8-17 15:43:01] The value of Progress is 30
+[Debug] [2024-8-17 15:43:03] The value of Progress is 35
+[Debug] [2024-8-17 15:43:05] The value of Progress is 40
+[Debug] [2024-8-17 15:43:06] The value of Progress is 45
+[Debug] [2024-8-17 15:43:08] The value of Progress is 50
+[Debug] [2024-8-17 15:43:10] The value of Progress is 55
+[Debug] [2024-8-17 15:43:11] The value of Progress is 60
+[Debug] [2024-8-17 15:43:13] The value of Progress is 65
+[Debug] [2024-8-17 15:43:15] The value of Progress is 70
+[Debug] [2024-8-17 15:43:16] The value of Progress is 75
+[Debug] [2024-8-17 15:43:18] The value of Progress is 80
+[Debug] [2024-8-17 15:43:19] The value of Progress is 85
+[Debug] [2024-8-17 15:43:21] The value of Progress is 90
+[Debug] [2024-8-17 15:43:23] The value of Progress is 95
+[Debug] [2024-8-17 15:43:24] The value of Progress is 100
+[Debug] [2024-8-17 15:43:25] COMMAND[Program Outer Flash] execute finish, takes 35.6 secs.
+[Debug] [2024-8-17 15:43:25] begin to send jtag flash verify cmd
+[Debug] [2024-8-17 15:43:25] Send RPC:8
+[Debug] [2024-8-17 15:43:25] Begin to send embed flash verify data.
+[Debug] [2024-8-17 15:43:25] Begin to send flash verify data.
+[Debug] [2024-8-17 15:43:25] End to send flash verify data.
+[Debug] [2024-8-17 15:43:25] End to send embed flash verify data.
+[Debug] [2024-8-17 15:43:25] Send cmd [Verify Outer Flash:20303] OK
+[Debug] [2024-8-17 15:43:25] The value of Progress is 1
+[Debug] [2024-8-17 15:43:25] The value of Progress is 6
+[Debug] [2024-8-17 15:43:25] The value of Progress is 10
+[Debug] [2024-8-17 15:43:25] The value of Progress is 15
+[Debug] [2024-8-17 15:43:26] The value of Progress is 20
+[Debug] [2024-8-17 15:43:26] The value of Progress is 25
+[Debug] [2024-8-17 15:43:26] The value of Progress is 30
+[Debug] [2024-8-17 15:43:26] The value of Progress is 35
+[Debug] [2024-8-17 15:43:26] The value of Progress is 40
+[Debug] [2024-8-17 15:43:26] The value of Progress is 45
+[Debug] [2024-8-17 15:43:26] The value of Progress is 50
+[Debug] [2024-8-17 15:43:26] The value of Progress is 55
+[Debug] [2024-8-17 15:43:26] The value of Progress is 60
+[Debug] [2024-8-17 15:43:27] The value of Progress is 65
+[Debug] [2024-8-17 15:43:27] The value of Progress is 70
+[Debug] [2024-8-17 15:43:27] The value of Progress is 75
+[Debug] [2024-8-17 15:43:27] The value of Progress is 80
+[Debug] [2024-8-17 15:43:27] The value of Progress is 85
+[Debug] [2024-8-17 15:43:27] The value of Progress is 90
+[Debug] [2024-8-17 15:43:27] The value of Progress is 95
+[Debug] [2024-8-17 15:43:27] The value of Progress is 100
+[Debug] [2024-8-17 15:43:27] COMMAND[Verify Outer Flash] execute successfully, takes 2.8 secs.
+[Debug] [2024-8-17 15:43:27] end to send jtag flash verify cmd
+[Debug] [2024-8-17 15:43:27] end to send jtag flash program cmd.
+[Info] [2024-8-17 15:43:30] /***************************End Configration***************************/
+[Info] [2024-8-17 16:49:26] /***************************Start Configuration***************************/
+[Info] [2024-8-17 16:49:26] Path: C:/pango/PDS_2022.2-SP1-Lite/bin
+[Info] [2024-8-17 16:49:26] Version: 132640
+[Info] [2024-8-17 16:49:27] Current Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 16:49:27] PDS Dir Path: D:/projects/pango/Pango_magicbox/pnr/example_design
+[Info] [2024-8-17 16:49:30] Configuration is not connect with server. connect first then scan chain.
+[Debug] [2024-8-17 16:49:30] Client Local host name:DESKTOP-HF0O1AK
+[Debug] [2024-8-17 16:49:30] Client Local Address:192.168.100.149
+[Debug] [2024-8-17 16:49:30] Server Address:127.0.0.1, Port:65420
+[Info] [2024-8-17 16:49:31] Connect OK, Server: 127.0.0.1  Port: 65420
+[Debug] [2024-8-17 16:49:31] Finish.
+[Info] [2024-8-17 16:49:31] Connect server succeeded
+[Debug] [2024-8-17 16:49:31] Send RPC:1
+[Debug] [2024-8-17 16:49:31] Send cmd [check version information:40004] OK
+[Debug] [2024-8-17 16:49:33] Send RPC:2
+[Debug] [2024-8-17 16:49:33] Send cmd [get_cable_paras:40010] OK
+[Debug] [2024-8-17 16:49:33] Begin to send initialize chain cmd...
+[Debug] [2024-8-17 16:49:33] Send RPC:3
+[Debug] [2024-8-17 16:49:33] Send cmd [Open config cable:20001] OK
+[Debug] [2024-8-17 16:49:33] End to send initialize chain cmd.
+[Debug] [2024-8-17 16:49:33] COMMAND[check version information] execute successfully, takes 1.8 secs.
+[Debug] [2024-8-17 16:49:35] COMMAND[get_cable_paras] execute successfully, takes 1.9 secs.
+[Debug] [2024-8-17 16:49:36] begin the exec of open cable cmd...
+[Debug] [2024-8-17 16:49:36] Begin to deal with chain from server...
+[Debug] [2024-8-17 16:49:36] Begin to set user chain...
+[Debug] [2024-8-17 16:49:36] End to set user chain.
+[Debug] [2024-8-17 16:49:36] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 16:49:36] End to update graphic item and tree item ...
+[Info] [2024-8-17 16:49:37] set OpenLastPath: D:/projects/pango/Pango_magicbox/pnr/example_design/generate_bitstream/top.sbit
+[Debug] [2024-8-17 16:49:37] begin to get device info from CFG file...
+[Debug] [2024-8-17 16:49:37] end to get device info from CFG file...
+[Debug] [2024-8-17 16:49:38] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 16:49:38] End to update graphic item and tree item ...
+[Debug] [2024-8-17 16:49:38] Begin to update graphic item and tree item ...
+[Debug] [2024-8-17 16:49:38] End to update graphic item and tree item ...
+[Debug] [2024-8-17 16:49:38] End to deal wiht chain from server.
+[Debug] [2024-8-17 16:49:38] end the exec of open cable cmd.
+[Debug] [2024-8-17 16:49:38] COMMAND[Open config cable] execute successfully, takes 4.6 secs.
+[Debug] [2024-8-17 16:49:39] Begin to send programming cmd...
+[Debug] [2024-8-17 16:49:39] Send RPC:4
+[Debug] [2024-8-17 16:49:39] Begin to send program data.
+[Debug] [2024-8-17 16:49:39] End to send program data.
+[Debug] [2024-8-17 16:49:39] Send cmd [Program:20002] OK
+[Debug] [2024-8-17 16:49:40] The value of Progress is 6
+[Debug] [2024-8-17 16:49:40] The value of Progress is 10
+[Debug] [2024-8-17 16:49:40] The value of Progress is 15
+[Debug] [2024-8-17 16:49:40] The value of Progress is 20
+[Debug] [2024-8-17 16:49:40] The value of Progress is 25
+[Debug] [2024-8-17 16:49:40] The value of Progress is 30
+[Debug] [2024-8-17 16:49:40] The value of Progress is 35
+[Debug] [2024-8-17 16:49:40] The value of Progress is 40
+[Debug] [2024-8-17 16:49:40] The value of Progress is 45
+[Debug] [2024-8-17 16:49:40] The value of Progress is 50
+[Debug] [2024-8-17 16:49:41] The value of Progress is 55
+[Debug] [2024-8-17 16:49:41] The value of Progress is 60
+[Debug] [2024-8-17 16:49:41] The value of Progress is 65
+[Debug] [2024-8-17 16:49:41] The value of Progress is 70
+[Debug] [2024-8-17 16:49:41] The value of Progress is 75
+[Debug] [2024-8-17 16:49:41] The value of Progress is 80
+[Debug] [2024-8-17 16:49:41] The value of Progress is 85
+[Debug] [2024-8-17 16:49:41] The value of Progress is 90
+[Debug] [2024-8-17 16:49:41] The value of Progress is 95
+[Debug] [2024-8-17 16:49:41] The value of Progress is 100
+[Debug] [2024-8-17 16:49:42] COMMAND[Program] execute successfully, takes 2.5 secs.
+[Debug] [2024-8-17 16:49:42] End to send programming cmd.
+[Info] [2024-8-17 16:54:55] /***************************End Configration***************************/

@@ -1,0 +1,1 @@
+vsim -do "do ipsxb_fft_onboard_top_sim.do"

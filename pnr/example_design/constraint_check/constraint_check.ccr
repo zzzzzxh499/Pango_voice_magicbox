@@ -1,0 +1,747 @@
+##### Written on 2024/08/17 23:05:11 ###############################
+
+
+##### INFO ##################################################
+
+Current device : 
+	PGL50H-6FBG484
+
+Top Module : 
+	top
+
+Constraint File(s) : 
+	C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc
+
+##### SUMMARY ######################################################
+
+Found 0 error(s), 31 critical warning(s), 205 warning(s), out of 865 constraint(s)
+
+
+Inapplicable constraints(except overwritten constraints):
+********************************************
+
+define_attribute {p:b_out[7]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 614)] PAP_IO_DIRECTION is already defined in p:b_out[7], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_LOC} {P19}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 615)] PAP_IO_LOC is already defined in p:b_out[7], new value P19 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 616)] PAP_IO_VCCIO is already defined in p:b_out[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 617)] PAP_IO_STANDARD is already defined in p:b_out[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 618)] PAP_IO_DRIVE is already defined in p:b_out[7], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 619)] PAP_IO_NONE is already defined in p:b_out[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[7]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 620)] PAP_IO_SLEW is already defined in p:b_out[7], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 621)] PAP_IO_DIRECTION is already defined in p:b_out[6], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_LOC} {R19}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 622)] PAP_IO_LOC is already defined in p:b_out[6], new value R19 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 623)] PAP_IO_VCCIO is already defined in p:b_out[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 624)] PAP_IO_STANDARD is already defined in p:b_out[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 625)] PAP_IO_DRIVE is already defined in p:b_out[6], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 626)] PAP_IO_NONE is already defined in p:b_out[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[6]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 627)] PAP_IO_SLEW is already defined in p:b_out[6], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 628)] PAP_IO_DIRECTION is already defined in p:b_out[5], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_LOC} {R22}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 629)] PAP_IO_LOC is already defined in p:b_out[5], new value R22 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 630)] PAP_IO_VCCIO is already defined in p:b_out[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 631)] PAP_IO_STANDARD is already defined in p:b_out[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 632)] PAP_IO_DRIVE is already defined in p:b_out[5], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 633)] PAP_IO_NONE is already defined in p:b_out[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[5]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 634)] PAP_IO_SLEW is already defined in p:b_out[5], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 635)] PAP_IO_DIRECTION is already defined in p:b_out[4], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_LOC} {R20}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 636)] PAP_IO_LOC is already defined in p:b_out[4], new value R20 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 637)] PAP_IO_VCCIO is already defined in p:b_out[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 638)] PAP_IO_STANDARD is already defined in p:b_out[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 639)] PAP_IO_DRIVE is already defined in p:b_out[4], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 640)] PAP_IO_NONE is already defined in p:b_out[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[4]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 641)] PAP_IO_SLEW is already defined in p:b_out[4], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 642)] PAP_IO_DIRECTION is already defined in p:b_out[3], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_LOC} {T22}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 643)] PAP_IO_LOC is already defined in p:b_out[3], new value T22 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 644)] PAP_IO_VCCIO is already defined in p:b_out[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 645)] PAP_IO_STANDARD is already defined in p:b_out[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 646)] PAP_IO_DRIVE is already defined in p:b_out[3], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 647)] PAP_IO_NONE is already defined in p:b_out[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[3]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 648)] PAP_IO_SLEW is already defined in p:b_out[3], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 656)] PAP_IO_DIRECTION is already defined in p:b_out[1], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_LOC} {V22}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 657)] PAP_IO_LOC is already defined in p:b_out[1], new value V22 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 658)] PAP_IO_VCCIO is already defined in p:b_out[1], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 659)] PAP_IO_STANDARD is already defined in p:b_out[1], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 660)] PAP_IO_DRIVE is already defined in p:b_out[1], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 661)] PAP_IO_NONE is already defined in p:b_out[1], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[1]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 662)] PAP_IO_SLEW is already defined in p:b_out[1], new value FAST will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 663)] PAP_IO_DIRECTION is already defined in p:b_out[0], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_LOC} {V21}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 664)] PAP_IO_LOC is already defined in p:b_out[0], new value V21 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 665)] PAP_IO_VCCIO is already defined in p:b_out[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 666)] PAP_IO_STANDARD is already defined in p:b_out[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 667)] PAP_IO_DRIVE is already defined in p:b_out[0], new value 8 will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 668)] PAP_IO_NONE is already defined in p:b_out[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_out[0]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 669)] PAP_IO_SLEW is already defined in p:b_out[0], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 670)] PAP_IO_DIRECTION is already defined in p:g_out[7], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_LOC} {L17}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 671)] PAP_IO_LOC is already defined in p:g_out[7], new value L17 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 672)] PAP_IO_VCCIO is already defined in p:g_out[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 673)] PAP_IO_STANDARD is already defined in p:g_out[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 674)] PAP_IO_DRIVE is already defined in p:g_out[7], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 675)] PAP_IO_NONE is already defined in p:g_out[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[7]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 676)] PAP_IO_SLEW is already defined in p:g_out[7], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 677)] PAP_IO_DIRECTION is already defined in p:g_out[6], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_LOC} {K20}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 678)] PAP_IO_LOC is already defined in p:g_out[6], new value K20 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 679)] PAP_IO_VCCIO is already defined in p:g_out[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 680)] PAP_IO_STANDARD is already defined in p:g_out[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 681)] PAP_IO_DRIVE is already defined in p:g_out[6], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 682)] PAP_IO_NONE is already defined in p:g_out[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[6]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 683)] PAP_IO_SLEW is already defined in p:g_out[6], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 684)] PAP_IO_DIRECTION is already defined in p:g_out[5], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_LOC} {L19}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 685)] PAP_IO_LOC is already defined in p:g_out[5], new value L19 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 686)] PAP_IO_VCCIO is already defined in p:g_out[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 687)] PAP_IO_STANDARD is already defined in p:g_out[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 688)] PAP_IO_DRIVE is already defined in p:g_out[5], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 689)] PAP_IO_NONE is already defined in p:g_out[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[5]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 690)] PAP_IO_SLEW is already defined in p:g_out[5], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 691)] PAP_IO_DIRECTION is already defined in p:g_out[4], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_LOC} {N15}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 692)] PAP_IO_LOC is already defined in p:g_out[4], new value N15 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 693)] PAP_IO_VCCIO is already defined in p:g_out[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 694)] PAP_IO_STANDARD is already defined in p:g_out[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 695)] PAP_IO_DRIVE is already defined in p:g_out[4], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 696)] PAP_IO_NONE is already defined in p:g_out[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[4]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 697)] PAP_IO_SLEW is already defined in p:g_out[4], new value FAST will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 698)] PAP_IO_DIRECTION is already defined in p:g_out[3], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_LOC} {M16}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 699)] PAP_IO_LOC is already defined in p:g_out[3], new value M16 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 700)] PAP_IO_VCCIO is already defined in p:g_out[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 701)] PAP_IO_STANDARD is already defined in p:g_out[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 702)] PAP_IO_DRIVE is already defined in p:g_out[3], new value 8 will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 703)] PAP_IO_NONE is already defined in p:g_out[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_out[3]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 704)] PAP_IO_SLEW is already defined in p:g_out[3], new value FAST will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 726)] PAP_IO_DIRECTION is already defined in p:r_out[7], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_LOC} {H19}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 727)] PAP_IO_LOC is already defined in p:r_out[7], new value H19 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 728)] PAP_IO_VCCIO is already defined in p:r_out[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 729)] PAP_IO_STANDARD is already defined in p:r_out[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 730)] PAP_IO_DRIVE is already defined in p:r_out[7], new value 8 will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 731)] PAP_IO_NONE is already defined in p:r_out[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_out[7]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 732)] PAP_IO_SLEW is already defined in p:r_out[7], new value FAST will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 775)] PAP_IO_DIRECTION is already defined in p:r_out[0], new value OUTPUT will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_LOC} {K17}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 776)] PAP_IO_LOC is already defined in p:r_out[0], new value K17 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 777)] PAP_IO_VCCIO is already defined in p:r_out[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 778)] PAP_IO_STANDARD is already defined in p:r_out[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 779)] PAP_IO_DRIVE is already defined in p:r_out[0], new value 8 will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 780)] PAP_IO_NONE is already defined in p:r_out[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_out[0]} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 781)] PAP_IO_SLEW is already defined in p:r_out[0], new value FAST will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 792)] PAP_IO_DIRECTION is already defined in p:b_in[5], new value INPUT will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_LOC} {AB16}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 793)] PAP_IO_LOC is already defined in p:b_in[5], new value AB16 will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 794)] PAP_IO_VCCIO is already defined in p:b_in[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 795)] PAP_IO_STANDARD is already defined in p:b_in[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_in[5]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 796)] PAP_IO_NONE is already defined in p:b_in[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 802)] PAP_IO_DIRECTION is already defined in p:b_in[3], new value INPUT will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_LOC} {W15}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 803)] PAP_IO_LOC is already defined in p:b_in[3], new value W15 will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 804)] PAP_IO_VCCIO is already defined in p:b_in[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 805)] PAP_IO_STANDARD is already defined in p:b_in[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_in[3]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 806)] PAP_IO_NONE is already defined in p:b_in[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 817)] PAP_IO_DIRECTION is already defined in p:b_in[0], new value INPUT will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_LOC} {U14}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 818)] PAP_IO_LOC is already defined in p:b_in[0], new value U14 will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 819)] PAP_IO_VCCIO is already defined in p:b_in[0], new value 3.3 will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 820)] PAP_IO_STANDARD is already defined in p:b_in[0], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:b_in[0]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 821)] PAP_IO_NONE is already defined in p:b_in[0], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 822)] PAP_IO_DIRECTION is already defined in p:g_in[7], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_LOC} {W17}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 823)] PAP_IO_LOC is already defined in p:g_in[7], new value W17 will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 824)] PAP_IO_VCCIO is already defined in p:g_in[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 825)] PAP_IO_STANDARD is already defined in p:g_in[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[7]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 826)] PAP_IO_NONE is already defined in p:g_in[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 827)] PAP_IO_DIRECTION is already defined in p:g_in[6], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_LOC} {Y18}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 828)] PAP_IO_LOC is already defined in p:g_in[6], new value Y18 will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 829)] PAP_IO_VCCIO is already defined in p:g_in[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 830)] PAP_IO_STANDARD is already defined in p:g_in[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[6]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 831)] PAP_IO_NONE is already defined in p:g_in[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 832)] PAP_IO_DIRECTION is already defined in p:g_in[5], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_LOC} {AB18}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 833)] PAP_IO_LOC is already defined in p:g_in[5], new value AB18 will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 834)] PAP_IO_VCCIO is already defined in p:g_in[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 835)] PAP_IO_STANDARD is already defined in p:g_in[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[5]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 836)] PAP_IO_NONE is already defined in p:g_in[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 837)] PAP_IO_DIRECTION is already defined in p:g_in[4], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_LOC} {AA18}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 838)] PAP_IO_LOC is already defined in p:g_in[4], new value AA18 will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 839)] PAP_IO_VCCIO is already defined in p:g_in[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 840)] PAP_IO_STANDARD is already defined in p:g_in[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[4]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 841)] PAP_IO_NONE is already defined in p:g_in[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 842)] PAP_IO_DIRECTION is already defined in p:g_in[3], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_LOC} {AB19}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 843)] PAP_IO_LOC is already defined in p:g_in[3], new value AB19 will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 844)] PAP_IO_VCCIO is already defined in p:g_in[3], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 845)] PAP_IO_STANDARD is already defined in p:g_in[3], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[3]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 846)] PAP_IO_NONE is already defined in p:g_in[3], new value TRUE will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 852)] PAP_IO_DIRECTION is already defined in p:g_in[1], new value INPUT will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_LOC} {V17}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 853)] PAP_IO_LOC is already defined in p:g_in[1], new value V17 will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 854)] PAP_IO_VCCIO is already defined in p:g_in[1], new value 3.3 will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 855)] PAP_IO_STANDARD is already defined in p:g_in[1], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:g_in[1]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 856)] PAP_IO_NONE is already defined in p:g_in[1], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 862)] PAP_IO_DIRECTION is already defined in p:r_in[7], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_LOC} {Y14}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 863)] PAP_IO_LOC is already defined in p:r_in[7], new value Y14 will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 864)] PAP_IO_VCCIO is already defined in p:r_in[7], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 865)] PAP_IO_STANDARD is already defined in p:r_in[7], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[7]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 866)] PAP_IO_NONE is already defined in p:r_in[7], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 867)] PAP_IO_DIRECTION is already defined in p:r_in[6], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_LOC} {W14}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 868)] PAP_IO_LOC is already defined in p:r_in[6], new value W14 will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 869)] PAP_IO_VCCIO is already defined in p:r_in[6], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 870)] PAP_IO_STANDARD is already defined in p:r_in[6], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[6]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 871)] PAP_IO_NONE is already defined in p:r_in[6], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 872)] PAP_IO_DIRECTION is already defined in p:r_in[5], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_LOC} {AB14}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 873)] PAP_IO_LOC is already defined in p:r_in[5], new value AB14 will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 874)] PAP_IO_VCCIO is already defined in p:r_in[5], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 875)] PAP_IO_STANDARD is already defined in p:r_in[5], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[5]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 876)] PAP_IO_NONE is already defined in p:r_in[5], new value TRUE will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_DIRECTION} {INPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 877)] PAP_IO_DIRECTION is already defined in p:r_in[4], new value INPUT will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_LOC} {AA14}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 878)] PAP_IO_LOC is already defined in p:r_in[4], new value AA14 will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 879)] PAP_IO_VCCIO is already defined in p:r_in[4], new value 3.3 will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 880)] PAP_IO_STANDARD is already defined in p:r_in[4], new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:r_in[4]} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 881)] PAP_IO_NONE is already defined in p:r_in[4], new value TRUE will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_DIRECTION} {INOUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 902)] PAP_IO_DIRECTION is already defined in p:iic_sda, new value INOUT will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {V20}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 903)] PAP_IO_LOC is already defined in p:iic_sda, new value V20 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 904)] PAP_IO_VCCIO is already defined in p:iic_sda, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 905)] PAP_IO_STANDARD is already defined in p:iic_sda, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 906)] PAP_IO_DRIVE is already defined in p:iic_sda, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_sda} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 908)] PAP_IO_SLEW is already defined in p:iic_sda, new value FAST will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_DIRECTION} {INOUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 909)] PAP_IO_DIRECTION is already defined in p:iic_tx_sda, new value INOUT will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_LOC} {P18}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 910)] PAP_IO_LOC is already defined in p:iic_tx_sda, new value P18 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 911)] PAP_IO_VCCIO is already defined in p:iic_tx_sda, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 912)] PAP_IO_STANDARD is already defined in p:iic_tx_sda, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 913)] PAP_IO_DRIVE is already defined in p:iic_tx_sda, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 915)] PAP_IO_SLEW is already defined in p:iic_tx_sda, new value FAST will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 916)] PAP_IO_DIRECTION is already defined in p:de_out, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_LOC} {Y22}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 917)] PAP_IO_LOC is already defined in p:de_out, new value Y22 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 918)] PAP_IO_VCCIO is already defined in p:de_out, new value 3.3 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 919)] PAP_IO_STANDARD is already defined in p:de_out, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 920)] PAP_IO_DRIVE is already defined in p:de_out, new value 8 will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 921)] PAP_IO_NONE is already defined in p:de_out, new value TRUE will overwrite the current value.
+
+define_attribute {p:de_out} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 922)] PAP_IO_SLEW is already defined in p:de_out, new value FAST will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 923)] PAP_IO_DIRECTION is already defined in p:hs_out, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_LOC} {Y21}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 924)] PAP_IO_LOC is already defined in p:hs_out, new value Y21 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 925)] PAP_IO_VCCIO is already defined in p:hs_out, new value 3.3 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 926)] PAP_IO_STANDARD is already defined in p:hs_out, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 927)] PAP_IO_DRIVE is already defined in p:hs_out, new value 8 will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_NONE} {TRUE}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 928)] PAP_IO_NONE is already defined in p:hs_out, new value TRUE will overwrite the current value.
+
+define_attribute {p:hs_out} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 929)] PAP_IO_SLEW is already defined in p:hs_out, new value FAST will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 930)] PAP_IO_DIRECTION is already defined in p:iic_scl, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_LOC} {V19}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 931)] PAP_IO_LOC is already defined in p:iic_scl, new value V19 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 932)] PAP_IO_VCCIO is already defined in p:iic_scl, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 933)] PAP_IO_STANDARD is already defined in p:iic_scl, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 934)] PAP_IO_DRIVE is already defined in p:iic_scl, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_scl} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 936)] PAP_IO_SLEW is already defined in p:iic_scl, new value FAST will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_DIRECTION} {OUTPUT}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 937)] PAP_IO_DIRECTION is already defined in p:iic_tx_scl, new value OUTPUT will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_LOC} {P17}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 938)] PAP_IO_LOC is already defined in p:iic_tx_scl, new value P17 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_VCCIO} {3.3}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 939)] PAP_IO_VCCIO is already defined in p:iic_tx_scl, new value 3.3 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_STANDARD} {LVCMOS33}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 940)] PAP_IO_STANDARD is already defined in p:iic_tx_scl, new value LVCMOS33 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_DRIVE} {8}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 941)] PAP_IO_DRIVE is already defined in p:iic_tx_scl, new value 8 will overwrite the current value.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_SLEW} {FAST}
+	W: ConstraintEditor-4026: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 943)] PAP_IO_SLEW is already defined in p:iic_tx_scl, new value FAST will overwrite the current value.
+
+define_attribute {p:es1_sdout} {PAP_IO_LOC} {AB5}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 31)] | Port es1_sdout has been placed at location AB5, whose type is share pin.
+
+define_attribute {p:es1_dlrc} {PAP_IO_LOC} {Y5}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 67)] | Port es1_dlrc has been placed at location Y5, whose type is share pin.
+
+define_attribute {p:keys[6]} {PAP_IO_LOC} {H20}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 89)] | Port keys[6] has been placed at location H20, whose type is share pin.
+
+define_attribute {p:keys[5]} {PAP_IO_LOC} {J19}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 95)] | Port keys[5] has been placed at location J19, whose type is share pin.
+
+define_attribute {p:keys[0]} {PAP_IO_LOC} {K18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 125)] | Port keys[0] has been placed at location K18, whose type is share pin.
+
+define_attribute {p:lin_test} {PAP_IO_LOC} {Y13}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 131)] | Port lin_test has been placed at location Y13, whose type is share pin.
+
+define_attribute {p:b_out[5]} {PAP_IO_LOC} {R22}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 629)] | Port b_out[5] has been placed at location R22, whose type is share pin.
+
+define_attribute {p:b_out[4]} {PAP_IO_LOC} {R20}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 636)] | Port b_out[4] has been placed at location R20, whose type is share pin.
+
+define_attribute {p:g_out[7]} {PAP_IO_LOC} {L17}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 671)] | Port g_out[7] has been placed at location L17, whose type is share pin.
+
+define_attribute {p:g_out[6]} {PAP_IO_LOC} {K20}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 678)] | Port g_out[6] has been placed at location K20, whose type is share pin.
+
+define_attribute {p:g_out[5]} {PAP_IO_LOC} {L19}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 685)] | Port g_out[5] has been placed at location L19, whose type is share pin.
+
+define_attribute {p:r_out[7]} {PAP_IO_LOC} {H19}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 727)] | Port r_out[7] has been placed at location H19, whose type is share pin.
+
+define_attribute {p:r_out[0]} {PAP_IO_LOC} {K17}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 776)] | Port r_out[0] has been placed at location K17, whose type is share pin.
+
+define_attribute {p:iic_sda} {PAP_IO_UNUSED} {TRUE}
+	W: ConstraintEditor-4031: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 410)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:iic_sda} {PAP_IO_LOC} {V20}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 903)] | Port iic_sda has been placed at location V20, whose type is share pin.
+
+define_attribute {p:iic_tx_sda} {PAP_IO_UNUSED} {TRUE}
+	W: ConstraintEditor-4031: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 417)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:iic_scl} {PAP_IO_UNUSED} {TRUE}
+	W: ConstraintEditor-4031: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 438)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:iic_scl} {PAP_IO_LOC} {V19}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 931)] | Port iic_scl has been placed at location V19, whose type is share pin.
+
+define_attribute {p:iic_tx_scl} {PAP_IO_UNUSED} {TRUE}
+	W: ConstraintEditor-4031: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 445)] BUS_KEEPER attribute have been defined already, current attribute PAP_IO_NONE will overwrite the old attribute PAP_IO_UNUSED.
+
+define_attribute {p:g_in[5]} {PAP_IO_LOC} {AB18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 833)] | Port g_in[5] has been placed at location AB18, whose type is share pin.
+
+define_attribute {p:g_in[4]} {PAP_IO_LOC} {AA18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 838)] | Port g_in[4] has been placed at location AA18, whose type is share pin.
+
+define_attribute {p:g_in[3]} {PAP_IO_LOC} {AB19}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 843)] | Port g_in[3] has been placed at location AB19, whose type is share pin.
+
+define_attribute {p:g_in[1]} {PAP_IO_LOC} {V17}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 853)] | Port g_in[1] has been placed at location V17, whose type is share pin.
+
+define_attribute {p:b_out[2]} {PAP_IO_LOC} {T21}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 650)] | Port b_out[2] has been placed at location T21, whose type is share pin.
+
+define_attribute {p:g_out[0]} {PAP_IO_LOC} {M21}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 720)] | Port g_out[0] has been placed at location M21, whose type is share pin.
+
+define_attribute {p:r_out[6]} {PAP_IO_LOC} {H22}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 734)] | Port r_out[6] has been placed at location H22, whose type is share pin.
+
+define_attribute {p:r_out[5]} {PAP_IO_LOC} {H21}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 741)] | Port r_out[5] has been placed at location H21, whose type is share pin.
+
+define_attribute {p:g_in[2]} {PAP_IO_LOC} {W18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 848)] | Port g_in[2] has been placed at location W18, whose type is share pin.
+
+define_attribute {p:pixclk_out} {PAP_IO_LOC} {M22}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 945)] | Port pixclk_out has been placed at location M22, whose type is share pin.
+
+define_attribute {p:pixclk_in} {PAP_IO_LOC} {AA12}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 976)] | Port pixclk_in has been placed at location AA12, whose type is share pin.
+
+define_attribute {p:rgmii_tx_ctl} {PAP_IO_LOC} {B18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 1030)] | Port rgmii_tx_ctl has been placed at location B18, whose type is share pin.
+
+define_attribute {p:rgmii_txd[1]} {PAP_IO_LOC} {D17}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 1051)] | Port rgmii_txd[1] has been placed at location D17, whose type is share pin.
+
+define_attribute {p:rgmii_txd[2]} {PAP_IO_LOC} {C18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 1058)] | Port rgmii_txd[2] has been placed at location C18, whose type is share pin.
+
+define_attribute {p:rgmii_txd[3]} {PAP_IO_LOC} {A18}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 1065)] | Port rgmii_txd[3] has been placed at location A18, whose type is share pin.
+
+define_attribute {p:phy_rstn} {PAP_IO_LOC} {B20}
+	C: ConstraintEditor-2002: [C:/Users/mjh/Desktop/final_competition/Pango_magicbox/pnr/example_design/ipsxb_fft_onboard_top.fdc(line number: 1072)] | Port phy_rstn has been placed at location B20, whose type is share pin.
+
+
+Constraints with issues:
+********************************************
+
+
+Issues without commands:
+********************************************
+
+
+Unconstrained ports:
+********************************************
+
+
+Constraints with matching wildcard expressions:
+********************************************
+
+

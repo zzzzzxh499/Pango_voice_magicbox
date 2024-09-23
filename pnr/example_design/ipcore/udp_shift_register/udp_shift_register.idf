@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ip_inst>
+    <header>
+        <vendor>Pango</vendor>
+        <id>06100103</id>
+        <display_name>Distributed Shift Register</display_name>
+        <name>Distributed Shift Register</name>
+        <version>1.3</version>
+        <instance>udp_shift_register</instance>
+        <family>Logos</family>
+        <device>PGL50H</device>
+        <package>FBG484</package>
+        <speedgrade>-6</speedgrade>
+        <generator version="2022.2-SP1-Lite" build="132640">IP Compiler</generator>
+    </header>
+    <param_list>
+        <param>
+            <name>VARIABLE_MAX_DEPTH</name>
+            <value>4</value>
+        </param>
+        <param>
+            <name>RST_TYPE</name>
+            <value>ASYNC</value>
+        </param>
+        <param>
+            <name>SHIFT_REG_TYPE_BOOL</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>OUT_REG</name>
+            <value>false</value>
+        </param>
+        <param>
+            <name>SHIFT_REG_TYPE</name>
+            <value>fixed_latency</value>
+        </param>
+        <param>
+            <name>DATA_WIDTH</name>
+            <value>8</value>
+        </param>
+        <param>
+            <name>FIXED_DEPTH</name>
+            <value>8</value>
+        </param>
+    </param_list>
+    <pin_list>
+        <pin>
+            <name>din</name>
+            <text>din</text>
+            <dir>input</dir>
+            <pos>left</pos>
+            <msb>7</msb>
+            <lsb>0</lsb>
+        </pin>
+        <pin>
+            <name>clk</name>
+            <text>clk</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>rst</name>
+            <text>rst</text>
+            <dir>input</dir>
+            <pos>left</pos>
+        </pin>
+        <pin>
+            <name>dout</name>
+            <text>dout</text>
+            <dir>output</dir>
+            <pos>right</pos>
+            <msb>7</msb>
+            <lsb>0</lsb>
+        </pin>
+    </pin_list>
+    <synthesis>
+        <script><![CDATA[set_option -vlog_std v2001]]></script>
+        <script><![CDATA[set_option -disable_io_insertion 1]]></script>
+    </synthesis>
+    <file_list>
+        <output>
+            <file pathname="generate.log" format="log" description="Generate Log"/>
+            <file pathname="udp_shift_register_tb.v" format="verilog" description="Compiled File"/>
+            <file pathname="udp_shift_register_tmpl.v" format="verilog" description="Instantiation Template"/>
+            <file pathname="udp_shift_register_tmpl.vhdl" format="vhdl" description="Instantiation Template"/>
+        </output>
+        <source>
+            <file pathname="rtl/ipm_distributed_sdpram_v1_2_udp_shift_register.v"/>
+            <file pathname="rtl/ipm_distributed_shiftregister_v1_3_udp_shift_register.v"/>
+            <file pathname="udp_shift_register.v"/>
+        </source>
+    </file_list>
+</ip_inst>
